@@ -5,7 +5,7 @@ DataLicense: CC0-1.0
 ## Document Information
 ##-------------------------
 
-DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_NLog-5.2.0.tar.gz_1701882118.spdx
+DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_NLog-5.2.0.tar.gz_1701886633.spdx
 DocumentName: /srv/fossology/repository/report
 SPDXID: SPDXRef-DOCUMENT
 
@@ -14,11 +14,11 @@ SPDXID: SPDXRef-DOCUMENT
 ##-------------------------
 
 Creator: Tool: fossology-
-Creator: Person: dierberg@dresearch-fe.de (dierberg@dresearch-fe.de)
+Creator: Person: Sascha Dierberg (dierberg@dresearch-fe.de)
 CreatorComment: <text>
-This document was created using license information and a generator from Fossology.
+This document was created using license information and a generator from Fossology. It contains the license and copyright analysis of NLog-5.2.0. Please check "LicenseComments" for explanations of concluded licenses.
 </text>
-Created: 2023-12-06T17:01:59Z
+Created: 2023-12-06T18:17:14Z
 LicenseListVersion: 3.19
 
 ##-------------------------

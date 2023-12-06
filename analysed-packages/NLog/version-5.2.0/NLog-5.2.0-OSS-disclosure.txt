@@ -6,7 +6,7 @@ NLog-5.2.0.tar.gz
 
 ========================================================================================================================
 
- OTHER LICENSES 
+LICENSES
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +45,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Copyright notices
 
 NOASSERTION
-©	dp�g��NI�Ʃr�ù��ø�°�ö��Né�Õi�ÿ8�@è�ÅقÙó�Ñ9�Ýÿy�¿� ù��)�j¸�E@�PI�éI��3��H�Â茦脜`�^О�9�R��Ð��a°	'��V¸��P��(   O¸��
 copyright in T4 files (@304NotModified) 2292](https://github.com/nlog/nlog/pull/2292) ${callsite} added CleanNamesOfAsyncContinuations option (#2292) (@304NotModified) 2310](https://github.com/nlog/nlog/pull/2310) Upgrade xUnit to 2.3.0 RTM (@304NotModified) 2313](https://github.com/nlo
 copyright 2018 (@304NotModified) 2570](https://github.com/nlog/nlog/pull/2570) Update nuspec NLog.Config and NLog.Schema (@304NotModified) 2542](https://github.com/nlog/nlog/pull/2542) Added TooManyStructuredParametersShouldKeepBeInParamList testcase (@304NotModified) 2467](https://githu
 CopyrightText>Copyright %28c%29 2004-2022 NLog</CopyrightText> FeedbackEMailAddress> FeedbackEMailAddress> CopyrightHref>https://nlog-project.org/</CopyrightHref> FrameworkVersion>.NET Framework 4.5.2</FrameworkVersion> ComponentConfigurations> ComponentConfig id="Co
