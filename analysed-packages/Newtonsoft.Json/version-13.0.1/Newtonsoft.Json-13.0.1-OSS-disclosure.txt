@@ -1,0 +1,51 @@
+========================================================================================================================
+
+Newtonsoft.Json-13.0.1.tar.gz
+
+------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================
+
+ OTHER LICENSES 
+
+------------------------------------------------------------------------------------------------------------------------
+
+LicenseRef-fossology-MIT-possibility
+
+License by Nomos.
+
+------------------------------------------------------------------------------------------------------------------------
+
+LicenseRef-fossology-BSD
+
+BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions.
+
+------------------------------------------------------------------------------------------------------------------------
+
+MIT
+
+MIT License
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Copyright notices
+
+Copyright>Copyright © James Newton-King 2008</Copyright> Summary>Json.NET is a popular high-performance JSON framework for .NET</Summary> NeutralLanguage>en-US</NeutralLanguage> Title>Json.NET</Title> PackageId>Newtonsoft.Json</PackageId> PackageTags>json</PackageTags>
+Copyright>Copyright © James Newton-King 2008</Copyright> AssemblyName>Newtonsoft.Json.Tests</AssemblyName> RootNamespace>Newtonsoft.Json.Tests</RootNamespace> IsPackable>false</IsPackable> Workaround for https://github.com/nunit/nunit3-vs-adapter/issues/296 --> DebugTyp
+Copyright (c) 2012 James Kovacs Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge,
+Copyright (c) 2010-2015 James Kovacs, Damian Hickey & Contributors`n" -f $psake.version
+Copyright (c) 2007-9 Atif Aziz, Joseph Albahari. All rights reserved.
+Copyright (c) 2007 James Newton-King
+Copyright (c) 1998 Hewlett-Packard Companydesc�sRGB IEC61966-2.1�sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ��XYZ b�·��ÚXYZ $ ��¶Ïdesc�IEC http://www.iec.ch�IEC
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. endregion
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
