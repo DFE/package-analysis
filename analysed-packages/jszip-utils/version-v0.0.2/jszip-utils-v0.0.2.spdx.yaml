@@ -15,7 +15,7 @@ creationInfo:
   - 'Person: Dorothea Kraus'
   licenseListVersion: '3.22'
 dataLicense: CC0-1.0
-documentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx
+documentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717663123.spdx
 files:
 - SPDXID: SPDXRef-item438555
   attributionTexts:
@@ -31,7 +31,7 @@ files:
   - algorithm: MD5
     checksumValue: 4b024769b8953ed5f8618315f39a7064
   copyrightText: ' (c) 2014 Stuart Knightley, David Duponchel '
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.min.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.min.js
   licenseComments: " The information in the file is:\n\n\"Dual licenced under the\
     \ MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\
     \n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You\
@@ -57,7 +57,7 @@ files:
   - algorithm: MD5
     checksumValue: fa38d451c6c882e6ece85bbc3a3a01c7
   copyrightText: ' (c) 2014 Stuart Knightley, David Duponchel '
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/license_header.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/license_header.js
   licenseComments: " The information in the file is:\n\n\"Dual licenced under the\
     \ MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\
     \n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You\
@@ -83,7 +83,7 @@ files:
   - algorithm: MD5
     checksumValue: f82b94f46b2af2b54c299a934ecdfeef
   copyrightText: ' (c) 2014 Stuart Knightley, David Duponchel '
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.js
   licenseComments: " The information in the file is:\n\n\"Dual licenced under the\
     \ MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\
     \n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You\
@@ -109,7 +109,7 @@ files:
   - algorithm: MD5
     checksumValue: 6a7343481a22f091c7c530b36a8b6f78
   copyrightText: ' (c) 2014 Stuart Knightley, David Duponchel '
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.min.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.min.js
   licenseComments: " The information in the file is:\n\n\"Dual licenced under the\
     \ MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\
     \n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You\
@@ -135,7 +135,7 @@ files:
   - algorithm: MD5
     checksumValue: b2311d74a50a74d6b61f69ea86864f7a
   copyrightText: ' (c) 2014 Stuart Knightley, David Duponchel '
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.js
   licenseComments: " The information in the file is:\n\n\"Dual licenced under the\
     \ MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\
     \n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You\
@@ -158,7 +158,7 @@ files:
   copyrightText: ' Copyright (c) 2014 Stuart Knightley, David Duponchel
 
     Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> '
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/LICENSE.markdown
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/LICENSE.markdown
   licenseComments: ' The file contains the texts of GPL-3.0-only and MIT. The text
     of the GPL-3.0-only is licensed under:
 
@@ -182,7 +182,7 @@ files:
   - algorithm: MD5
     checksumValue: 15d156ab1fe0ce75aea1368535fd2ce4
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/package.json
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/package.json
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - LicenseRef-MIT
@@ -196,7 +196,7 @@ files:
   - algorithm: MD5
     checksumValue: cf02ce7460e39b9681fa6c13f5bdfa22
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/bower.json
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/bower.json
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - LicenseRef-MIT
@@ -210,7 +210,7 @@ files:
   - algorithm: MD5
     checksumValue: f1f2df07bae3a9a70cb23780445e1934
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.gitignore
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.gitignore
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -223,7 +223,7 @@ files:
   - algorithm: MD5
     checksumValue: d575960ae2a674c5e623134c5d3d6e27
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/index.html
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/index.html
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -236,7 +236,7 @@ files:
   - algorithm: MD5
     checksumValue: 42dcc3613432c09cdd818acd30cd248f
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/amount.txt
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/amount.txt
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -249,7 +249,7 @@ files:
   - algorithm: MD5
     checksumValue: 8ca0dac772204123699fcdd58771825b
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/smile.gif
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/smile.gif
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -262,7 +262,7 @@ files:
   - algorithm: MD5
     checksumValue: 6804d3cd31103537ea5852c479fd06e3
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/test.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/test.js
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -275,7 +275,7 @@ files:
   - algorithm: MD5
     checksumValue: 1d7b2fc98b48ddc421995ef57ce52c91
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/CHANGES.md
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/CHANGES.md
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -288,7 +288,7 @@ files:
   - algorithm: MD5
     checksumValue: 0ef8969e3d9c049345e986a6f2b9e09b
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.travis.yml
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.travis.yml
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -301,7 +301,7 @@ files:
   - algorithm: MD5
     checksumValue: 4746ed23552aca5c08673d52dc0873dc
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintrc
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintrc
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -314,7 +314,7 @@ files:
   - algorithm: MD5
     checksumValue: 38c45906a0dc5d743f43d9bc9e1cb525
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintignore
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintignore
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -327,7 +327,7 @@ files:
   - algorithm: MD5
     checksumValue: 69c7d5cd2a911763d3390ddf68535ddb
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/Gruntfile.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/Gruntfile.js
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -340,7 +340,7 @@ files:
   - algorithm: MD5
     checksumValue: 053109948e1d61dcbf3ace6ad877174d
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/README.markdown
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/README.markdown
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - LicenseRef-MIT
@@ -355,7 +355,7 @@ files:
   - algorithm: MD5
     checksumValue: 9d7c7f5abd489ade579cac11435cbf55
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/component.json
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/component.json
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - LicenseRef-MIT
@@ -369,7 +369,7 @@ files:
   - algorithm: MD5
     checksumValue: 733da0c16ddc60da015733093172c24d
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/_layouts/default.html
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/_layouts/default.html
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -382,7 +382,7 @@ files:
   - algorithm: MD5
     checksumValue: f13781a48b607abe8628809f3d90f898
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/pygments.css
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/pygments.css
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -395,7 +395,7 @@ files:
   - algorithm: MD5
     checksumValue: 0f684aec50e93f452641f6b3f23f0f28
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/main.css
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/main.css
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -408,7 +408,7 @@ files:
   - algorithm: MD5
     checksumValue: fba873802bb595b37c7c6be47a7f8dad
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api/getbinarycontent.md
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api/getbinarycontent.md
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -421,7 +421,7 @@ files:
   - algorithm: MD5
     checksumValue: 17ad904ec96f7a9d74e38ddaee8515ff
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api.md
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api.md
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -434,7 +434,7 @@ files:
   - algorithm: MD5
     checksumValue: ea54a951e5dcae47adf9a1f92cd911bd
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/index.md
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/index.md
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - LicenseRef-MIT
@@ -449,7 +449,7 @@ files:
   - algorithm: MD5
     checksumValue: 7fb5eda5ef9a5de64312df5c06ae3f33
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index.js
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -462,7 +462,7 @@ files:
   - algorithm: MD5
     checksumValue: 5fd663c23284b9df0512a58f413f1e2a
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index_IE.js
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index_IE.js
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -475,7 +475,7 @@ files:
   - algorithm: MD5
     checksumValue: 2dac55cd0080cad7c5f433c72e00b9f7
   copyrightText: NOASSERTION
-  fileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/_config.yml
+  fileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/_config.yml
   licenseConcluded: NOASSERTION
   licenseInfoInFiles:
   - NOASSERTION
@@ -1032,8 +1032,8 @@ packages:
   licenseDeclared: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
   licenseInfoFromFiles:
   - NOASSERTION
-  name: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip
-  packageFileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip
+  name: jszip-utils-0.0.2.zip
+  packageFileName: jszip-utils-0.0.2.zip
   packageVerificationCode:
     packageVerificationCodeValue: 33f4b9fa403778df7762f0a4915973bef6d1e250
 relationships:

@@ -5,7 +5,7 @@ DataLicense: CC0-1.0
 ## Document Information
 ##-------------------------
 
-DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx
+DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717663123.spdx
 DocumentName: /srv/fossology/repository/report
 SPDXID: SPDXRef-DOCUMENT
 
@@ -28,8 +28,8 @@ LicenseListVersion: 3.22
 ##-------------------------
 
 
-PackageName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip
-PackageFileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip
+PackageName: jszip-utils-0.0.2.zip
+PackageFileName: jszip-utils-0.0.2.zip
 SPDXID: SPDXRef-upload60
 PackageDownloadLocation: NOASSERTION
 FilesAnalyzed: true
@@ -55,7 +55,7 @@ Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload60
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.min.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.min.js
 SPDXID: SPDXRef-item438555
 FileChecksum: SHA1: e0a663d0132a1ca9fe45a301643a77001d8067ef
 FileChecksum: SHA256: 0af9db8d1c0678ca57d8f02eb75fcb582a081631ed7c1943f3bf26c36826ee28
@@ -78,7 +78,7 @@ FileAttributionText: <text> To the extent that files may be licensed under eithe
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/license_header.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/license_header.js
 SPDXID: SPDXRef-item438574
 FileChecksum: SHA1: f23e8dda815e4f5688d2975148bd8c10fcb7fb8d
 FileChecksum: SHA256: 61ebb837228f6dad86fc0d058b047b531a8d4bb18156d35f93452e6aeeb2af98
@@ -101,7 +101,7 @@ FileAttributionText: <text> To the extent that files may be licensed under eithe
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.js
 SPDXID: SPDXRef-item438554
 FileChecksum: SHA1: adcfa105db7bb096d36e489aff5a4f75cc88a4b7
 FileChecksum: SHA256: f2ade2a46b445b356e21e4ee9eaee450470f26a99c2133051f81a86d773404fc
@@ -124,7 +124,7 @@ FileAttributionText: <text> To the extent that files may be licensed under eithe
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.min.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.min.js
 SPDXID: SPDXRef-item438552
 FileChecksum: SHA1: 7fa938be83510f79f77d50f201b943d6f83c7770
 FileChecksum: SHA256: 00893a7216eeb3b212e51569a92355d57ed08a16e2d580b494e2ee517419fa6c
@@ -147,7 +147,7 @@ FileAttributionText: <text> To the extent that files may be licensed under eithe
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.js
 SPDXID: SPDXRef-item438553
 FileChecksum: SHA1: c0cb9e38bb791d553e6878c594d4109f882a3c03
 FileChecksum: SHA256: 5766f8e5dbc4786b96e68f787ec0099cba6bbfa39dde0dea26ba6affde947e7a
@@ -170,7 +170,7 @@ FileAttributionText: <text> To the extent that files may be licensed under eithe
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/LICENSE.markdown
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/LICENSE.markdown
 SPDXID: SPDXRef-item438575
 FileChecksum: SHA1: 05d411277d81bb5d9d859aaa13ca906995cd1821
 FileChecksum: SHA256: 6248a1acb95fc943ccdf0a6f11fbcc0784b8e7d7e9d8a0a99c008fa84b2114f0
@@ -189,7 +189,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> </text>
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/package.json
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/package.json
 SPDXID: SPDXRef-item438540
 FileChecksum: SHA1: 39a6df9d989411163afa2451ae4e87ed08128cae
 FileChecksum: SHA256: 8ea1a2495fb326aa1680d4aa1b6421713c29f1edb6eb379ae6d7d3a7538e6509
@@ -201,7 +201,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/bower.json
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/bower.json
 SPDXID: SPDXRef-item438541
 FileChecksum: SHA1: 3087063a6b7b4c08d0b8e8eb8df9ee9be970da29
 FileChecksum: SHA256: bc72f0aba7569537f0a216f737646b93c27eed5e9be47d9d4d06084898689fa5
@@ -213,7 +213,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.gitignore
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.gitignore
 SPDXID: SPDXRef-item438542
 FileChecksum: SHA1: 57a62f5dba8d72aea5978861c584ae4e40dc6f28
 FileChecksum: SHA256: 061e82d732e2284cc91ff92a6e243b10db45c52bfa90eb1b89edcf841afa4942
@@ -224,7 +224,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/index.html
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/index.html
 SPDXID: SPDXRef-item438544
 FileChecksum: SHA1: 6ee1efc48e17b0c317fc605743c73692d5c71b5a
 FileChecksum: SHA256: 5e95d0fc55abca02c53ea202c9e4c43af2d8c5ca1254351a09d5bdfd27b3cd37
@@ -235,7 +235,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/amount.txt
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/amount.txt
 SPDXID: SPDXRef-item438546
 FileChecksum: SHA1: 400df7e811bf0a5fd7d41251e253787ac38c68b9
 FileChecksum: SHA256: 72e4473860e8384a9f8cedc7b0b775d346a85fe0a0e8aee43c652afb0ad17d83
@@ -246,7 +246,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/smile.gif
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/smile.gif
 SPDXID: SPDXRef-item438547
 FileChecksum: SHA1: e34cbfb344ad3811cc54a0909190afba946469b0
 FileChecksum: SHA256: 0f75e9983d179da20565dfe3aa3614c7a76541974c5371620741c8df0e14d9bb
@@ -257,7 +257,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/test.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/test.js
 SPDXID: SPDXRef-item438548
 FileChecksum: SHA1: 80386f99f0dd1eb2783d809c7e70f1aaca01f9bf
 FileChecksum: SHA256: 6e25d695f0ca4fb3f9ea64d26c74af85e5778fe6ead64ab2d166b91196494c6f
@@ -268,7 +268,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/CHANGES.md
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/CHANGES.md
 SPDXID: SPDXRef-item438549
 FileChecksum: SHA1: 6e5b755d369ea6bc3ac80010f64566e32982f8ad
 FileChecksum: SHA256: 7d35d8c837937bdad8f89eed908af06c540856f2f1c28c43c17ebf74ba39ab06
@@ -279,7 +279,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.travis.yml
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.travis.yml
 SPDXID: SPDXRef-item438550
 FileChecksum: SHA1: 2bd5ec245a308652c979d11c125d27a02f506251
 FileChecksum: SHA256: 9855a5b6c53528978e1684ae91fbbc42076f85c5646df59c1b323b56d0673be3
@@ -290,7 +290,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintrc
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintrc
 SPDXID: SPDXRef-item438556
 FileChecksum: SHA1: 3d50aab650501989f6c17adf18b8ed3e88d9bcf5
 FileChecksum: SHA256: 496bff33febadf9861df4c5c23a2878fbb703af57e9daca39a4ac30d59c6e1ac
@@ -301,7 +301,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintignore
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintignore
 SPDXID: SPDXRef-item438557
 FileChecksum: SHA1: 572914428c5ab1b74bc41838abf3e926e0f797b2
 FileChecksum: SHA256: dac50d664c70785780d387e30112dea34a8b24b4eadf6edb7399895dd42b5678
@@ -312,7 +312,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/Gruntfile.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/Gruntfile.js
 SPDXID: SPDXRef-item438558
 FileChecksum: SHA1: e854b73edee97ddb15bce9bda8b0c70ef7d44eb0
 FileChecksum: SHA256: 9a92c059a30804740995772183e79d06cfb24cb89f2a33627df8bba05f9d19cf
@@ -323,7 +323,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/README.markdown
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/README.markdown
 SPDXID: SPDXRef-item438559
 FileChecksum: SHA1: ff8612fa01d4c1153ade8dc53035bedad6cb8a03
 FileChecksum: SHA256: 771ba78c6ef8e993246b821667b0690d28d6fc39353046b85a359028b677ade5
@@ -336,7 +336,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/component.json
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/component.json
 SPDXID: SPDXRef-item438560
 FileChecksum: SHA1: b6e1c5ee2d24718febe1f82c6a158ebf365128a9
 FileChecksum: SHA256: 7d3fc78940cac6a0e36fc96fc961032c1116b6d9adbf14d7a514906e1f8e7593
@@ -348,7 +348,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/_layouts/default.html
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/_layouts/default.html
 SPDXID: SPDXRef-item438563
 FileChecksum: SHA1: a533ec218b635d60ed31e3dc77e5347cd1a21e3c
 FileChecksum: SHA256: fac46f16ba0e9d77d41c3a2ffeeb19d077a708f4a47b415df6a7c9bceae9b3a4
@@ -359,7 +359,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/pygments.css
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/pygments.css
 SPDXID: SPDXRef-item438565
 FileChecksum: SHA1: 7b25ad1fe92c1827e882bbdf80c26e7cfe878391
 FileChecksum: SHA256: 819691b50d93733da1ca2ee074939b88f67fc4481f4ec2f7d7bb0861b5a30d19
@@ -370,7 +370,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/main.css
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/main.css
 SPDXID: SPDXRef-item438566
 FileChecksum: SHA1: ca8b94c82a5e9c11fe28b4483a320eaeb1535e9a
 FileChecksum: SHA256: d1f85649b8a341809e493bcd6496696a7763e46365a274e3426adf2628e8f8e3
@@ -381,7 +381,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api/getbinarycontent.md
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api/getbinarycontent.md
 SPDXID: SPDXRef-item438568
 FileChecksum: SHA1: d2e15a88bff0ae8e6f3026043bd1314eb4bc326f
 FileChecksum: SHA256: ac3ba529a5a4c2d5bfd7ca08d4b423dfa3307d0d6b1f96445b78fb7be67760af
@@ -392,7 +392,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api.md
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api.md
 SPDXID: SPDXRef-item438569
 FileChecksum: SHA1: 717c5dbe31472ba4d838c379ec1684fc3b91b0aa
 FileChecksum: SHA256: d2208a049840e18be013869c0485dbd343684a80a49ce6e24b67c9ef8ceec48e
@@ -403,7 +403,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/index.md
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/index.md
 SPDXID: SPDXRef-item438570
 FileChecksum: SHA1: b6f0781904de6d0f878a42f46126adb8d11f9f13
 FileChecksum: SHA256: 84727f122fd5e4d52f4c98d4d98378e2fb330be0a21bfaca52047ea2074834c3
@@ -416,7 +416,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index.js
 SPDXID: SPDXRef-item438572
 FileChecksum: SHA1: bfa4ef0eb3d60e41c617906dbfb4913112573b1b
 FileChecksum: SHA256: ab0ce5040dd3c5d6b867d2837d5068b363d1a7054a5ddd5ec99579794eebe31b
@@ -427,7 +427,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index_IE.js
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index_IE.js
 SPDXID: SPDXRef-item438573
 FileChecksum: SHA1: a84a3626f067c32de2760ca3154f505ed9dca1ff
 FileChecksum: SHA256: 59af17893cad1de95bf5837b97e68007eac5209ac10de1444db65a451f4e0932
@@ -438,7 +438,7 @@ FileCopyrightText: NOASSERTION
 
 ##File
 
-FileName: jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/_config.yml
+FileName: jszip-utils-0.0.2.zip/jszip-utils-0.0.2/_config.yml
 SPDXID: SPDXRef-item438576
 FileChecksum: SHA1: 184f156fc0fcb0a4c4f2c4c45e49ed2a90ebaea4
 FileChecksum: SHA256: 899c2454531b33080e8e66551841f0bbc0ff6fcf1e16e45d8bab11e90129800a

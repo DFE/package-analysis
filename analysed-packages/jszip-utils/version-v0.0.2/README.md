@@ -1,10 +1,10 @@
 ## Download Location
 
-https://github.com/Stuk/jszip-utils/archive/f50bf924370036d93ca68f67045db66615a27cbb.zip
+https://github.com/Stuk/jszip-utils/archive/refs/tags/v0.0.2.zip
 
 ## Package URL (purl)
 
-pkg:github/stuk/jszip-utils@f50bf924370036d93ca68f67045db66615a27cbb
+pkg:github/stuk/jszip-utils@0.0.2
 
 ## Creator
 

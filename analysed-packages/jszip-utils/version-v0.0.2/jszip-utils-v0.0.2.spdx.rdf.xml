@@ -4,9 +4,9 @@
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <spdx:SpdxDocument rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-DOCUMENT">
+  <spdx:SpdxDocument rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-DOCUMENT">
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT">
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT">
         <spdx:extractedText> MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -19,7 +19,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41">
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41">
         <spdx:extractedText> The MIT License
 ===============
 
@@ -47,7 +47,7 @@ THE SOFTWARE. </spdx:extractedText>
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only">
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only">
         <spdx:extractedText><![CDATA[ GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
@@ -286,14 +286,14 @@ The GNU General Public License does not permit incorporating your program into p
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license-4ffdbfa4389a96bdf16017f93d3c78d8">
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license-4ffdbfa4389a96bdf16017f93d3c78d8">
         <spdx:name>Dual-license</spdx:name>
         <spdx:extractedText> License: MIT OR GPL-3.0-or-later </spdx:extractedText>
         <spdx:licenseId>LicenseRef-Dual-license-4ffdbfa4389a96bdf16017f93d3c78d8</spdx:licenseId>
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5">
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5">
         <spdx:extractedText><![CDATA[ GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
@@ -305,7 +305,7 @@ of this license document, but changing it is not allowed. ]]></spdx:extractedTex
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license">
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license">
         <spdx:licenseId>LicenseRef-Dual-license</spdx:licenseId>
         <spdx:name>Dual-license</spdx:name>
         <spdx:extractedText> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
@@ -316,7 +316,7 @@ When software is multi-licensed, recipients can choose which terms under which t
     <spdx:relationship>
       <spdx:Relationship rdf:nodeID="N39bea06960d24959b9c8dec5a989fb98">
         <spdx:relatedSpdxElement>
-          <spdx:Package rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-upload60">
+          <spdx:Package rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-upload60">
             <spdx:licenseComments> licenseInfoInFile determined by Scanners:
  - nomos ("4.4.0".903df0)
  - monk ("4.4.0".903df0)
@@ -325,11 +325,11 @@ When software is multi-licensed, recipients can choose which terms under which t
               <spdx:Relationship rdf:nodeID="N6ca8de83709d45c4bc506554ec2126b5">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438555">
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.min.js</spdx:fileName>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438555">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.min.js</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N1d16b74478314ea2bcab142eed19e15e">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
@@ -350,8 +350,8 @@ When software is multi-licensed, recipients can choose which terms under which t
                     </spdx:checksum>
                     <spdx:licenseConcluded>
                       <spdx:DisjunctiveLicenseSet rdf:nodeID="Nd7283221dedb4d6f81a5ddff4d19fcf7">
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                       </spdx:DisjunctiveLicenseSet>
                     </spdx:licenseConcluded>
                     <spdx:copyrightText> (c) 2014 Stuart Knightley, David Duponchel </spdx:copyrightText>
@@ -372,8 +372,8 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N7242a1461e064ad59cfa33acb644db77">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438570">
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/index.md</spdx:fileName>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438570">
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/index.md</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N3fb8c99e1eb54a2a93ed300fd7c8338c">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
@@ -393,9 +393,9 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
@@ -406,7 +406,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="Nb6d3b815c2ec4a78b0ecba8988792572">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438550">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438550">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Nc21b31541e2a45e685ef6b029b3c403c">
                         <spdx:checksumValue>2bd5ec245a308652c979d11c125d27a02f506251</spdx:checksumValue>
@@ -426,7 +426,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.travis.yml</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.travis.yml</spdx:fileName>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
@@ -436,8 +436,8 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="Ne7bafa30ca5e4493867c691822411a4c">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438546">
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/amount.txt</spdx:fileName>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438546">
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/amount.txt</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N014a47bceaf448dbba78786a1836e458">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
@@ -468,7 +468,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N20658feae84b4d24adc03d68c1f3c7da">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438566">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438566">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N632e624e14724bb0a0e91794005b12c9">
                         <spdx:checksumValue>ca8b94c82a5e9c11fe28b4483a320eaeb1535e9a</spdx:checksumValue>
@@ -490,7 +490,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/main.css</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/main.css</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
               </spdx:Relationship>
@@ -499,10 +499,10 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="Naa5960f02bfd4049a1e875c156d4dacd">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438575">
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438575">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
                     <spdx:licenseComments> The file contains the texts of GPL-3.0-only and MIT. The text of the GPL-3.0-only is licensed under:
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
@@ -526,8 +526,8 @@ Thus we concluded License-of-GNU-Licenses as license of this file </spdx:license
                         <spdx:checksumValue>6248a1acb95fc943ccdf0a6f11fbcc0784b8e7d7e9d8a0a99c008fa84b2114f0</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/LICENSE.markdown</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5"/>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/LICENSE.markdown</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5"/>
                     <spdx:copyrightText><![CDATA[ Copyright (c) 2014 Stuart Knightley, David Duponchel
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:copyrightText>
                   </spdx:File>
@@ -537,7 +537,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N6f4f919709da448194cf1ecb58f5555d">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438568">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438568">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Ne8cf29e82c874713909939dd948df8c3">
                         <spdx:checksumValue>ac3ba529a5a4c2d5bfd7ca08d4b423dfa3307d0d6b1f96445b78fb7be67760af</spdx:checksumValue>
@@ -556,7 +556,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
                         <spdx:checksumValue>d2e15a88bff0ae8e6f3026043bd1314eb4bc326f</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api/getbinarycontent.md</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api/getbinarycontent.md</spdx:fileName>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
@@ -569,8 +569,8 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
               <spdx:Relationship rdf:nodeID="N3f1949d289bd496a830c266876fe46f8">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438559">
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/README.markdown</spdx:fileName>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438559">
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/README.markdown</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Nd8183f7b3fbd4e01bf1e337823d6ac90">
                         <spdx:checksumValue>ff8612fa01d4c1153ade8dc53035bedad6cb8a03</spdx:checksumValue>
@@ -591,9 +591,9 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
                     </spdx:checksum>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
               </spdx:Relationship>
@@ -602,7 +602,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
               <spdx:Relationship rdf:nodeID="N2a20c32239ad456b9dfca72e5f3fd5be">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438542">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438542">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Nf210cacac6b4433aaa97771555a869a7">
                         <spdx:checksumValue>57a62f5dba8d72aea5978861c584ae4e40dc6f28</spdx:checksumValue>
@@ -624,7 +624,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.gitignore</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.gitignore</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
               </spdx:Relationship>
@@ -633,10 +633,10 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
               <spdx:Relationship rdf:nodeID="N344fde8c5ff74fca8634230abc1ee903">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438553">
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438553">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                     <spdx:attributionText> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </spdx:attributionText>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N591ec626a016488e8c0e6488095494fd">
@@ -656,7 +656,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ]]></spdx:co
                         <spdx:checksumValue>5766f8e5dbc4786b96e68f787ec0099cba6bbfa39dde0dea26ba6affde947e7a</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.js</spdx:fileName>
                     <spdx:copyrightText> (c) 2014 Stuart Knightley, David Duponchel </spdx:copyrightText>
                     <spdx:licenseComments> The information in the file is:
 
@@ -669,8 +669,8 @@ license." Additionally, it contained the full MIT and GPL-3.0-only license texts
 Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                     <spdx:licenseConcluded>
                       <spdx:DisjunctiveLicenseSet rdf:nodeID="N4d68c864b5a54d69b29963554dc2ee72">
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                       </spdx:DisjunctiveLicenseSet>
                     </spdx:licenseConcluded>
                   </spdx:File>
@@ -680,8 +680,8 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="Nc86d42881f7f4ab2b7ebf79e6170d32d">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438540">
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/package.json</spdx:fileName>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438540">
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/package.json</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N8edaf8ba89804dcb81a851db4ad044f6">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
@@ -702,8 +702,8 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                     </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
@@ -713,7 +713,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="Nf73443e351f24810953b45676a8cecc7">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438572">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438572">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N8bd37768f33649ce960a97f3a1171c57">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
@@ -732,7 +732,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                         <spdx:checksumValue>7fb5eda5ef9a5de64312df5c06ae3f33</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index.js</spdx:fileName>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
@@ -744,7 +744,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N8135596dd3fc4c6c8bc42df4b352a67e">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438541">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438541">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Ncdaaed3650d24689a275f018c3d2fccf">
                         <spdx:checksumValue>cf02ce7460e39b9681fa6c13f5bdfa22</spdx:checksumValue>
@@ -763,11 +763,11 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                         <spdx:checksumValue>bc72f0aba7569537f0a216f737646b93c27eed5e9be47d9d4d06084898689fa5</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/bower.json</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/bower.json</spdx:fileName>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
               </spdx:Relationship>
@@ -775,7 +775,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N911cfd3a117b476aaa4cff4ca8090e88">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438576">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438576">
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N575cfe59ebfb4159b5b54d9568f7de67">
@@ -795,7 +795,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/_config.yml</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/_config.yml</spdx:fileName>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
@@ -807,7 +807,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N70ad5bfb234c4094888ee33abe95fec2">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438565">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438565">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Nc21c6ca87da14003ad8f802e56b3c56e">
                         <spdx:checksumValue>819691b50d93733da1ca2ee074939b88f67fc4481f4ec2f7d7bb0861b5a30d19</spdx:checksumValue>
@@ -827,7 +827,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/pygments.css</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/pygments.css</spdx:fileName>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                   </spdx:File>
@@ -838,7 +838,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="Nbf1e8e3b930e497f9cdd700225345008">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438548">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438548">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N282601bb35124213946b7efd70330a19">
                         <spdx:checksumValue>80386f99f0dd1eb2783d809c7e70f1aaca01f9bf</spdx:checksumValue>
@@ -858,7 +858,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/test.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/test.js</spdx:fileName>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
@@ -868,7 +868,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="Nb5bf057144dd47579dba8bca0eca2b43">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438556">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438556">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N52bd54e17a074a12a362eff5daabdc19">
                         <spdx:checksumValue>496bff33febadf9861df4c5c23a2878fbb703af57e9daca39a4ac30d59c6e1ac</spdx:checksumValue>
@@ -889,7 +889,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                     </spdx:checksum>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintrc</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintrc</spdx:fileName>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
@@ -900,8 +900,8 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N89cab95f49324e2fafb6113b9a17eb80">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438547">
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/smile.gif</spdx:fileName>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438547">
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/smile.gif</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N68979da8f2a54a5b9c4b69673f193de4">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
@@ -930,7 +930,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="Nfb3596188ede4c7ba0003cbfed8c35be">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438563">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438563">
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N0ce31b69c2c049ec99c12c635e22ef74">
@@ -950,7 +950,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                         <spdx:checksumValue>a533ec218b635d60ed31e3dc77e5347cd1a21e3c</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/_layouts/default.html</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/_layouts/default.html</spdx:fileName>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                   </spdx:File>
@@ -962,10 +962,10 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="Nbc159d5b30044cb6a59231aeb5536ffb">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438573">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438573">
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index_IE.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index_IE.js</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N071346f4af144b8dba24a21ecd6c1265">
                         <spdx:checksumValue>59af17893cad1de95bf5837b97e68007eac5209ac10de1444db65a451f4e0932</spdx:checksumValue>
@@ -993,9 +993,9 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N5fa0cb1e68e8478184f38bcadf226bd1">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438544">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438544">
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/index.html</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/index.html</spdx:fileName>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Ne1fc2aa35f4a45a1a001022416f67b90">
                         <spdx:checksumValue>6ee1efc48e17b0c317fc605743c73692d5c71b5a</spdx:checksumValue>
@@ -1023,7 +1023,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N835e8afbedfd4cf5a4cf279de8ad4e68">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438574">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438574">
                     <spdx:copyrightText> (c) 2014 Stuart Knightley, David Duponchel </spdx:copyrightText>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Nbf3935b284e14970ae7fd60704e336a8">
@@ -1043,11 +1043,11 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/license_header.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/license_header.js</spdx:fileName>
                     <spdx:licenseConcluded>
                       <spdx:DisjunctiveLicenseSet rdf:nodeID="N3639044b5394412aaa555cae108e481f">
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                       </spdx:DisjunctiveLicenseSet>
                     </spdx:licenseConcluded>
                     <spdx:licenseComments> The information in the file is:
@@ -1059,9 +1059,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                     <spdx:attributionText> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </spdx:attributionText>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
@@ -1071,7 +1071,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N92665ad38b2248ec937404b1bb650199">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438569">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438569">
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N486b875021f24b9fbdf4bcacb077dc7a">
@@ -1092,7 +1092,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api.md</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api.md</spdx:fileName>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
@@ -1103,14 +1103,14 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N06db3d2869174a81b81913b1803c9f8f">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438554">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438554">
                     <spdx:licenseConcluded>
                       <spdx:DisjunctiveLicenseSet rdf:nodeID="Nc420a17e86424f7fa41ed38f74ed8c7a">
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
                       </spdx:DisjunctiveLicenseSet>
                     </spdx:licenseConcluded>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.js</spdx:fileName>
                     <spdx:copyrightText> (c) 2014 Stuart Knightley, David Duponchel </spdx:copyrightText>
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N31a44b85ed494a27b4c49380cfbee734">
@@ -1139,9 +1139,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                     <spdx:attributionText> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </spdx:attributionText>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
@@ -1150,7 +1150,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N5477b086a651492d96b67c51798154a3">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438560">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438560">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="N5b672dbc553741259eb8b8a55dbec012">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
@@ -1169,9 +1169,9 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/component.json</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/component.json</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
@@ -1183,7 +1183,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N1eefe7d45cb344da83e8baded4d77488">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438557">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438557">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Nbb329e6896da45dd84b2e964b38f9a67">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
@@ -1205,7 +1205,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintignore</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintignore</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
               </spdx:Relationship>
@@ -1214,7 +1214,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
               <spdx:Relationship rdf:nodeID="N7656a6ff44114c579f6e1afe61365dab">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438549">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438549">
                     <spdx:checksum>
                       <spdx:Checksum rdf:nodeID="Naa07d82415e7412aa0dc7b688d76b6a4">
                         <spdx:checksumValue>7d35d8c837937bdad8f89eed908af06c540856f2f1c28c43c17ebf74ba39ab06</spdx:checksumValue>
@@ -1234,7 +1234,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/CHANGES.md</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/CHANGES.md</spdx:fileName>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
@@ -1244,7 +1244,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="Neabbfa52bf4041f7991c169134140cf3">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438552">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438552">
                     <spdx:licenseComments> The information in the file is:
 
 "Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown."
@@ -1254,13 +1254,13 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-Dual-license"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-Dual-license"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT"/>
                     <spdx:licenseConcluded>
                       <spdx:DisjunctiveLicenseSet rdf:nodeID="Nfca3f78daec44f8ab06106d3e2508971">
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
-                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
+                        <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
                       </spdx:DisjunctiveLicenseSet>
                     </spdx:licenseConcluded>
                     <spdx:attributionText> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </spdx:attributionText>
@@ -1283,7 +1283,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:copyrightText> (c) 2014 Stuart Knightley, David Duponchel </spdx:copyrightText>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.min.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.min.js</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
@@ -1292,7 +1292,7 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:relationship>
               <spdx:Relationship rdf:nodeID="N18719c6ffa8447d1b05bf80c87e34c70">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#SPDXRef-item438558">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#SPDXRef-item438558">
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:checksum>
@@ -1314,13 +1314,13 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/Gruntfile.js</spdx:fileName>
+                    <spdx:fileName>jszip-utils-0.0.2.zip/jszip-utils-0.0.2/Gruntfile.js</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
-            <spdx:name>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip</spdx:name>
+            <spdx:name>jszip-utils-0.0.2.zip</spdx:name>
             <spdx:checksum>
               <spdx:Checksum rdf:nodeID="N59ac7f8ceb46433191fd77f1ab80367c">
                 <spdx:checksumValue>38e617351fdc1273a2ec14624344c46083fa71e87f54624bcfa22922db18112d</spdx:checksumValue>
@@ -1347,12 +1347,12 @@ Thus, we concluded MIT OR GPL-3.0-only. </spdx:licenseComments>
             <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
             <spdx:licenseDeclared>
               <spdx:DisjunctiveLicenseSet rdf:nodeID="N0421af79618642a98754a346e7562d51">
-                <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
-                <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
+                <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-GPL-3.0-only"/>
+                <spdx:member rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx#LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41"/>
               </spdx:DisjunctiveLicenseSet>
             </spdx:licenseDeclared>
             <spdx:filesAnalyzed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</spdx:filesAnalyzed>
-            <spdx:packageFileName>jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip</spdx:packageFileName>
+            <spdx:packageFileName>jszip-utils-0.0.2.zip</spdx:packageFileName>
             <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
             <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
             <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>

@@ -44,7 +44,7 @@
     ],
     "name": "/srv/fossology/repository/report",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip_1717583752.spdx",
+    "documentNamespace": "http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_jszip-utils-0.0.2.zip_1717583752.spdx",
     "packages": [
         {
             "SPDXID": "SPDXRef-upload60",
@@ -71,8 +71,8 @@
             "licenseInfoFromFiles": [
                 "NOASSERTION"
             ],
-            "name": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip",
-            "packageFileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip",
+            "name": "jszip-utils-0.0.2.zip",
+            "packageFileName": "jszip-utils-0.0.2.zip",
             "packageVerificationCode": {
                 "packageVerificationCodeValue": "33f4b9fa403778df7762f0a4915973bef6d1e250"
             }
@@ -99,7 +99,7 @@
                 }
             ],
             "copyrightText": " (c) 2014 Stuart Knightley, David Duponchel ",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.min.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.min.js",
             "licenseComments": " The information in the file is:\n\n\"Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You may use it under the MIT license *or* the GPLv3\nlicense.\" Additionally, it contained the full MIT and GPL-3.0-only license texts.\n\nThus, we concluded MIT OR GPL-3.0-only. ",
             "licenseConcluded": "LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41",
             "licenseInfoInFiles": [
@@ -128,7 +128,7 @@
                 }
             ],
             "copyrightText": " (c) 2014 Stuart Knightley, David Duponchel ",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/license_header.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/license_header.js",
             "licenseComments": " The information in the file is:\n\n\"Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You may use it under the MIT license *or* the GPLv3\nlicense.\" Additionally, it contained the full MIT and GPL-3.0-only license texts.\n\nThus, we concluded MIT OR GPL-3.0-only. ",
             "licenseConcluded": "LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41",
             "licenseInfoInFiles": [
@@ -157,7 +157,7 @@
                 }
             ],
             "copyrightText": " (c) 2014 Stuart Knightley, David Duponchel ",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils-ie.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils-ie.js",
             "licenseComments": " The information in the file is:\n\n\"Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You may use it under the MIT license *or* the GPLv3\nlicense.\" Additionally, it contained the full MIT and GPL-3.0-only license texts.\n\nThus, we concluded MIT OR GPL-3.0-only. ",
             "licenseConcluded": "LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41",
             "licenseInfoInFiles": [
@@ -186,7 +186,7 @@
                 }
             ],
             "copyrightText": " (c) 2014 Stuart Knightley, David Duponchel ",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.min.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.min.js",
             "licenseComments": " The information in the file is:\n\n\"Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You may use it under the MIT license *or* the GPLv3\nlicense.\" Additionally, it contained the full MIT and GPL-3.0-only license texts.\n\nThus, we concluded MIT OR GPL-3.0-only. ",
             "licenseConcluded": "LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41",
             "licenseInfoInFiles": [
@@ -215,7 +215,7 @@
                 }
             ],
             "copyrightText": " (c) 2014 Stuart Knightley, David Duponchel ",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/dist/jszip-utils.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/dist/jszip-utils.js",
             "licenseComments": " The information in the file is:\n\n\"Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.\"\n\nWe followed the link and there it said: \n\"JSZipUtils is dual licensed. You may use it under the MIT license *or* the GPLv3\nlicense.\" Additionally, it contained the full MIT and GPL-3.0-only license texts.\n\nThus, we concluded MIT OR GPL-3.0-only. ",
             "licenseConcluded": "LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41",
             "licenseInfoInFiles": [
@@ -241,7 +241,7 @@
                 }
             ],
             "copyrightText": " Copyright (c) 2014 Stuart Knightley, David Duponchel\nCopyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> ",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/LICENSE.markdown",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/LICENSE.markdown",
             "licenseComments": " The file contains the texts of GPL-3.0-only and MIT. The text of the GPL-3.0-only is licensed under:\nEveryone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed.\n\nThus we concluded License-of-GNU-Licenses as license of this file ",
             "licenseConcluded": "LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5",
             "licenseInfoInFiles": [
@@ -267,7 +267,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/package.json",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/package.json",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "LicenseRef-MIT",
@@ -291,7 +291,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/bower.json",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/bower.json",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "LicenseRef-MIT",
@@ -315,7 +315,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.gitignore",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.gitignore",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -338,7 +338,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/index.html",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/index.html",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -361,7 +361,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/amount.txt",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/amount.txt",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -384,7 +384,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/ref/smile.gif",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/ref/smile.gif",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -407,7 +407,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/test/test.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/test/test.js",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -430,7 +430,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/CHANGES.md",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/CHANGES.md",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -453,7 +453,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.travis.yml",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.travis.yml",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -476,7 +476,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintrc",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintrc",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -499,7 +499,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/.jshintignore",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/.jshintignore",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -522,7 +522,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/Gruntfile.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/Gruntfile.js",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -545,7 +545,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/README.markdown",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/README.markdown",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "LicenseRef-MIT",
@@ -570,7 +570,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/component.json",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/component.json",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "LicenseRef-MIT",
@@ -594,7 +594,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/_layouts/default.html",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/_layouts/default.html",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -617,7 +617,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/pygments.css",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/pygments.css",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -640,7 +640,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/css/main.css",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/css/main.css",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -663,7 +663,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api/getbinarycontent.md",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api/getbinarycontent.md",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -686,7 +686,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/documentation/api.md",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/documentation/api.md",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -709,7 +709,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/index.md",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/index.md",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "LicenseRef-MIT",
@@ -734,7 +734,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index.js",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -757,7 +757,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/lib/index_IE.js",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/lib/index_IE.js",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
@@ -780,7 +780,7 @@
                 }
             ],
             "copyrightText": "NOASSERTION",
-            "fileName": "jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb.zip/jszip-utils-f50bf924370036d93ca68f67045db66615a27cbb/_config.yml",
+            "fileName": "jszip-utils-0.0.2.zip/jszip-utils-0.0.2/_config.yml",
             "licenseConcluded": "NOASSERTION",
             "licenseInfoInFiles": [
                 "NOASSERTION"
