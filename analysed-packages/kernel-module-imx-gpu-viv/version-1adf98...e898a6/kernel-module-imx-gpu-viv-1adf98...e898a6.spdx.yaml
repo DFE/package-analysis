@@ -9,13 +9,13 @@ creationInfo:
     Please check "LicenseComments" for explanations of concluded licenses.
 
     '
-  created: '2024-06-07T12:21:27Z'
+  created: '2024-06-07T13:29:17Z'
   creators:
   - 'Tool: fossology-4.4.0'
   - 'Person: Sascha Dierberg'
   licenseListVersion: '3.22'
 dataLicense: CC0-1.0
-documentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip_1717762886.spdx
+documentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip_1717766956.spdx
 files:
 - SPDXID: SPDXRef-item701532
   attributionTexts:
@@ -1982,9 +1982,7 @@ files:
     checksumValue: a5bde30ff53015aa6998c9d76efeb030
   copyrightText: ' Copyright (c) 2014 - 2020 Vivante Corporation
 
-    Copyright (C) 2014 - 2020 Vivante Corporation
-
-    (c) ((((c) >= '' '') && ((c) <= ''}'')) ? ((c) != ''%'' ? (c) : '' '') : '' '') '
+    Copyright (C) 2014 - 2020 Vivante Corporation '
   fileName: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip/kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6/kernel-module-imx-gpu-viv-src/hal/kernel/inc/shared/gc_hal_types_shared.h
   licenseComments: ' The information in the file is:
 
@@ -3237,38 +3235,7 @@ files:
     checksumValue: b499eddebda05a8859e32b820a64577d91f1de2b52efa2a1575a2cb4000bc259
   - algorithm: MD5
     checksumValue: 12f884d2ae1ff87c09e5b7ccc2c4ca7e
-  copyrightText: ' Copyright (C) 1989, 1991 Free Software Foundation, Inc. 51 Franklin
-    St, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute
-    verbatim copies of this license document, but changing it is not allowed.
-
-    copyright the software, and 2) offer you this license which gives you legal permission
-    to copy, distribute and/or modify the software.
-
-    copyright law: that is to say, a work containing the Program or a portion of it,
-    either verbatim or with modifications and/or translated into another language.
-    (Hereinafter, translation is included without limitation in the term "modification".)
-    Each licensee is addressed as "you".
-
-    copyrighted interfaces, the
-
-    copyrighted by the Free Software Foundation, write to the Free Software Foundation;
-    we sometimes make exceptions for this. Our decision will be guided by the two
-    goals of preserving the free status of all derivatives of our free software and
-    of promoting the sharing and reuse of software generally.
-
-    copyright" line and a pointer to where the full notice is found.
-
-    Copyright (C) <year> <name of author>
-
-    Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY;
-    for details type `show w''. This is free software, and you are welcome to redistribute
-    it under certain conditions; type `show c'' for details.
-
-    copyright disclaimer" for the program, if necessary. Here is a sample; alter the
-    names:
-
-    copyright interest in the program Gnomovision'' (which makes passes at compilers)
-    written by James Hacker. '
+  copyrightText: ' Copyright (C) 1989, 1991 Free Software Foundation, Inc. '
   fileName: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip/kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6/COPYING
   licenseComments: ' The file contains the text of the GPL-2.0. The text of the license
     is licensed under:
@@ -3847,7 +3814,7 @@ packages:
   licenseDeclared: LicenseRef-GPL-2.0-or-later OR LicenseRef-MIT
   licenseInfoFromFiles:
   - NOASSERTION
-  name: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6
+  name: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip
   packageFileName: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip
   packageVerificationCode:
     packageVerificationCodeValue: 28ffaa11bb4bea39fc966b576766187f1f1d2d2f

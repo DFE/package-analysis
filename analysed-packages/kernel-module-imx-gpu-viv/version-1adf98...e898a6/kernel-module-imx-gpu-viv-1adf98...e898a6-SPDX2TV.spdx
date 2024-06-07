@@ -5,7 +5,7 @@ DataLicense: CC0-1.0
 ## Document Information
 ##-------------------------
 
-DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip_1717762886.spdx
+DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip_1717766956.spdx
 DocumentName: /srv/fossology/repository/report
 SPDXID: SPDXRef-DOCUMENT
 
@@ -20,7 +20,7 @@ This document was created using license information and a generator from Fossolo
 It contains the license and copyright analysis of kernel-module-imx-gpu-viv 1adf98...e898a6.
 Please check "LicenseComments" for explanations of concluded licenses.
 </text>
-Created: 2024-06-07T12:21:27Z
+Created: 2024-06-07T13:29:17Z
 LicenseListVersion: 3.22
 
 ##-------------------------
@@ -28,7 +28,7 @@ LicenseListVersion: 3.22
 ##-------------------------
 
 
-PackageName: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6
+PackageName: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip
 PackageFileName: kernel-module-imx-gpu-viv-1adf982c5954f2f87919c6874279386f82e898a6.zip
 SPDXID: SPDXRef-upload425
 PackageDownloadLocation: NOASSERTION
@@ -1370,8 +1370,7 @@ LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-MIT
 LicenseInfoInFile: LicenseRef-Dual-license
 FileCopyrightText: <text> Copyright (c) 2014 - 2020 Vivante Corporation
-Copyright (C) 2014 - 2020 Vivante Corporation
-(c) ((((c) >= ' ') && ((c) <= '}')) ? ((c) != '%' ? (c) : ' ') : ' ') </text>
+Copyright (C) 2014 - 2020 Vivante Corporation </text>
 FileAttributionText: <text> To the extent that files may be licensed under either MIT OR GPL-2.0-or-later, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT OR GPL-2.0-or-later licenses. For convenience, all license texts are provided. </text>
 
 ##File
@@ -2210,16 +2209,7 @@ of this license document, but changing it is not allowed.
 Thus we concluded License-of-GNU-Licenses as license of this file. </text>
 LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0-only
-FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
-copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
-copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
-copyrighted interfaces, the
-copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
-copyright" line and a pointer to where the full notice is found.
-Copyright (C) <year> <name of author>
-Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
-copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
-copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. </text>
 
 ##File
 
