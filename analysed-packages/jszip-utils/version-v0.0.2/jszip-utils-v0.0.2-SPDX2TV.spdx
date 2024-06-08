@@ -38,7 +38,7 @@ PackageChecksum: SHA1: 5dab2bbe4af0598afffbd5d90ccf0a329335cc42
 PackageChecksum: SHA256: 38e617351fdc1273a2ec14624344c46083fa71e87f54624bcfa22922db18112d
 PackageChecksum: MD5: 54abb1878eb4e0900a53ecc673247b4a
 PackageLicenseConcluded: NOASSERTION
-PackageLicenseDeclared: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+PackageLicenseDeclared: GPL-3.0-only OR MIT-a09b4c8ba47c9bec1b147e94aa512f41
 PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
  - nomos ("4.4.0".903df0)
  - monk ("4.4.0".903df0)
@@ -60,7 +60,7 @@ SPDXID: SPDXRef-item438555
 FileChecksum: SHA1: e0a663d0132a1ca9fe45a301643a77001d8067ef
 FileChecksum: SHA256: 0af9db8d1c0678ca57d8f02eb75fcb582a081631ed7c1943f3bf26c36826ee28
 FileChecksum: MD5: 4b024769b8953ed5f8618315f39a7064
-LicenseConcluded: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+LicenseConcluded: GPL-3.0-only OR MIT-a09b4c8ba47c9bec1b147e94aa512f41
 LicenseComments: <text> The information in the file is:
 
 "Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown."
@@ -70,9 +70,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </text>
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: <text> (c) 2014 Stuart Knightley, David Duponchel </text>
 FileAttributionText: <text> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </text>
 
@@ -83,7 +83,7 @@ SPDXID: SPDXRef-item438574
 FileChecksum: SHA1: f23e8dda815e4f5688d2975148bd8c10fcb7fb8d
 FileChecksum: SHA256: 61ebb837228f6dad86fc0d058b047b531a8d4bb18156d35f93452e6aeeb2af98
 FileChecksum: MD5: fa38d451c6c882e6ece85bbc3a3a01c7
-LicenseConcluded: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+LicenseConcluded: GPL-3.0-only OR MIT-a09b4c8ba47c9bec1b147e94aa512f41
 LicenseComments: <text> The information in the file is:
 
 "Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown."
@@ -93,9 +93,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </text>
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: <text> (c) 2014 Stuart Knightley, David Duponchel </text>
 FileAttributionText: <text> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </text>
 
@@ -106,7 +106,7 @@ SPDXID: SPDXRef-item438554
 FileChecksum: SHA1: adcfa105db7bb096d36e489aff5a4f75cc88a4b7
 FileChecksum: SHA256: f2ade2a46b445b356e21e4ee9eaee450470f26a99c2133051f81a86d773404fc
 FileChecksum: MD5: f82b94f46b2af2b54c299a934ecdfeef
-LicenseConcluded: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+LicenseConcluded: GPL-3.0-only OR MIT-a09b4c8ba47c9bec1b147e94aa512f41
 LicenseComments: <text> The information in the file is:
 
 "Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown."
@@ -116,9 +116,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </text>
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: <text> (c) 2014 Stuart Knightley, David Duponchel </text>
 FileAttributionText: <text> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </text>
 
@@ -129,7 +129,7 @@ SPDXID: SPDXRef-item438552
 FileChecksum: SHA1: 7fa938be83510f79f77d50f201b943d6f83c7770
 FileChecksum: SHA256: 00893a7216eeb3b212e51569a92355d57ed08a16e2d580b494e2ee517419fa6c
 FileChecksum: MD5: 6a7343481a22f091c7c530b36a8b6f78
-LicenseConcluded: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+LicenseConcluded: GPL-3.0-only OR MIT-a09b4c8ba47c9bec1b147e94aa512f41
 LicenseComments: <text> The information in the file is:
 
 "Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown."
@@ -139,9 +139,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </text>
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: <text> (c) 2014 Stuart Knightley, David Duponchel </text>
 FileAttributionText: <text> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </text>
 
@@ -152,7 +152,7 @@ SPDXID: SPDXRef-item438553
 FileChecksum: SHA1: c0cb9e38bb791d553e6878c594d4109f882a3c03
 FileChecksum: SHA256: 5766f8e5dbc4786b96e68f787ec0099cba6bbfa39dde0dea26ba6affde947e7a
 FileChecksum: MD5: b2311d74a50a74d6b61f69ea86864f7a
-LicenseConcluded: LicenseRef-GPL-3.0-only OR LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+LicenseConcluded: GPL-3.0-only OR MIT-a09b4c8ba47c9bec1b147e94aa512f41
 LicenseComments: <text> The information in the file is:
 
 "Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown."
@@ -162,9 +162,9 @@ We followed the link and there it said:
 license." Additionally, it contained the full MIT and GPL-3.0-only license texts.
 
 Thus, we concluded MIT OR GPL-3.0-only. </text>
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: <text> (c) 2014 Stuart Knightley, David Duponchel </text>
 FileAttributionText: <text> To the extent that files may be licensed under either MIT or GPL-3.0-only, in this context, MIT has been chosen. This choice shall not restrict the freedom of other users to select either MIT or GPL-3.0-onlylicenses. For convenience, all license texts are provided. </text>
 
@@ -175,15 +175,15 @@ SPDXID: SPDXRef-item438575
 FileChecksum: SHA1: 05d411277d81bb5d9d859aaa13ca906995cd1821
 FileChecksum: SHA256: 6248a1acb95fc943ccdf0a6f11fbcc0784b8e7d7e9d8a0a99c008fa84b2114f0
 FileChecksum: MD5: 785a13e22748fe11698629cb58892130
-LicenseConcluded: LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5
+LicenseConcluded: License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5
 LicenseComments: <text> The file contains the texts of GPL-3.0-only and MIT. The text of the GPL-3.0-only is licensed under:
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
 Thus we concluded License-of-GNU-Licenses as license of this file </text>
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: <text> Copyright (c) 2014 Stuart Knightley, David Duponchel
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> </text>
 
@@ -195,8 +195,8 @@ FileChecksum: SHA1: 39a6df9d989411163afa2451ae4e87ed08128cae
 FileChecksum: SHA256: 8ea1a2495fb326aa1680d4aa1b6421713c29f1edb6eb379ae6d7d3a7538e6509
 FileChecksum: MD5: 15d156ab1fe0ce75aea1368535fd2ce4
 LicenseConcluded: NOASSERTION
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
 FileCopyrightText: NOASSERTION
 
 ##File
@@ -207,8 +207,8 @@ FileChecksum: SHA1: 3087063a6b7b4c08d0b8e8eb8df9ee9be970da29
 FileChecksum: SHA256: bc72f0aba7569537f0a216f737646b93c27eed5e9be47d9d4d06084898689fa5
 FileChecksum: MD5: cf02ce7460e39b9681fa6c13f5bdfa22
 LicenseConcluded: NOASSERTION
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
 FileCopyrightText: NOASSERTION
 
 ##File
@@ -329,9 +329,9 @@ FileChecksum: SHA1: ff8612fa01d4c1153ade8dc53035bedad6cb8a03
 FileChecksum: SHA256: 771ba78c6ef8e993246b821667b0690d28d6fc39353046b85a359028b677ade5
 FileChecksum: MD5: 053109948e1d61dcbf3ace6ad877174d
 LicenseConcluded: NOASSERTION
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: NOASSERTION
 
 ##File
@@ -342,8 +342,8 @@ FileChecksum: SHA1: b6e1c5ee2d24718febe1f82c6a158ebf365128a9
 FileChecksum: SHA256: 7d3fc78940cac6a0e36fc96fc961032c1116b6d9adbf14d7a514906e1f8e7593
 FileChecksum: MD5: 9d7c7f5abd489ade579cac11435cbf55
 LicenseConcluded: NOASSERTION
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
 FileCopyrightText: NOASSERTION
 
 ##File
@@ -409,9 +409,9 @@ FileChecksum: SHA1: b6f0781904de6d0f878a42f46126adb8d11f9f13
 FileChecksum: SHA256: 84727f122fd5e4d52f4c98d4d98378e2fb330be0a21bfaca52047ea2074834c3
 FileChecksum: MD5: ea54a951e5dcae47adf9a1f92cd911bd
 LicenseConcluded: NOASSERTION
-LicenseInfoInFile: LicenseRef-MIT
-LicenseInfoInFile: LicenseRef-GPL-3.0-only
-LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: Dual-license
 FileCopyrightText: NOASSERTION
 
 ##File
@@ -455,7 +455,7 @@ FileCopyrightText: NOASSERTION
 
   
 
-LicenseID: LicenseRef-MIT-a09b4c8ba47c9bec1b147e94aa512f41
+LicenseID: MIT-a09b4c8ba47c9bec1b147e94aa512f41
 LicenseName: MIT License
 ExtractedText: <text> The MIT License
 ===============
@@ -482,7 +482,7 @@ THE SOFTWARE. </text>
 
 
   
-LicenseID: LicenseRef-GPL-3.0-only
+LicenseID: GPL-3.0-only
 LicenseName: GNU General Public License v3.0 only
 ExtractedText: <text> GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
@@ -720,24 +720,21 @@ The GNU General Public License does not permit incorporating your program into p
 
   
 
-LicenseID: LicenseRef-Dual-license-4ffdbfa4389a96bdf16017f93d3c78d8
+LicenseID: Dual-license-4ffdbfa4389a96bdf16017f93d3c78d8
 LicenseName: Dual-license
 ExtractedText: <text> License: MIT OR GPL-3.0-or-later </text>
 
   
 
-LicenseID: LicenseRef-License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5
+LicenseID: License-of-GNU-Licenses-4ae6c63c7c8c497f3100573c124854f5
 LicenseName: License-of-GNU-Licenses
-ExtractedText: <text> GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
-
-Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ExtractedText: <text>
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed. </text>
 
 
   
-LicenseID: LicenseRef-MIT
+LicenseID: MIT
 LicenseName: MIT License
 ExtractedText: <text> MIT License
 
@@ -749,7 +746,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-LicenseID: LicenseRef-Dual-license
+LicenseID: Dual-license
 LicenseName: Dual-license
 ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
 When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
