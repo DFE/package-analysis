@@ -1,0 +1,428 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718106610.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0
+Creator: Person: Sascha Dierberg
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+It contains the license and copyright analysis of liberation-fonts-ttf 2.1.5.
+Please check "LicenseComments" for explanations of concluded licenses.
+</text>
+Created: 2024-06-11T11:50:10Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: liberation-fonts-ttf-2.1.5.tar.gz
+PackageFileName: liberation-fonts-ttf-2.1.5.tar.gz
+SPDXID: SPDXRef-upload203
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: ba3d12c6fb44f49cadaff0975799ca6ae5daab73
+PackageChecksum: SHA1: 1342eae01b837beff16ac1f8c3614dc01588fae7
+PackageChecksum: SHA256: 7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0
+PackageChecksum: MD5: 31b453e0b77bacde410a34a725b34f8a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0".903df0)
+ - monk ("4.4.0".903df0)
+ - ojo ("4.4.0".903df0)
+ - scancode ("4.4.0".903df0) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: <text>
+AUTHORS
+
+Current Contributors (sorted alphabetically):
+
+- Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>
+Project Owner/ Maintainer (Current)
+Red Hat, Inc.
+
+Previous Contributors
+- Pravin Satpute <psatpute at redhat dot com>
+Project Owner/ Maintainer
+Red Hat, Inc.
+
+- Steve Matteson
+Original Designer
+Ascender, Inc.</text>
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload203
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Bold.ttf
+SPDXID: SPDXRef-item543546
+FileChecksum: SHA1: 4e5ee6e5de4d35337f7d14fa43222908e28e2d8d
+FileChecksum: SHA256: 788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173
+FileChecksum: MD5: ab3823f8c454609eab661b54751fd55e
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Italic.ttf
+SPDXID: SPDXRef-item543544
+FileChecksum: SHA1: c5f801425d1f93be54e31267813f4367755f096c
+FileChecksum: SHA256: 0e3dea9f8d613e006ccfa62201f33e265d19167bd0907725c3e145368b04fc2e
+FileChecksum: MD5: 31defdf69fc00c20b9caabe3e76d53e1
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Regular.ttf
+SPDXID: SPDXRef-item543550
+FileChecksum: SHA1: e617879345422a0e204de4b1dff4a41103992d64
+FileChecksum: SHA256: 058ea80864aef09a23f45cbec2bb5400bc3dfbdea01c3f10538a21fcb497fb74
+FileChecksum: MD5: 732ab01395f607bf178d0f32d841cc71
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Regular.ttf
+SPDXID: SPDXRef-item543538
+FileChecksum: SHA1: 822a13649cfa7475343d52bfb2db9f0358a36822
+FileChecksum: SHA256: 76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8
+FileChecksum: MD5: d7b4e92b03deb1865aa61328fd5ff400
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-BoldItalic.ttf
+SPDXID: SPDXRef-item543542
+FileChecksum: SHA1: 7e9704cabad534e2a56b32bbbec89a8d7e4e138f
+FileChecksum: SHA256: f17db8af71e24d2066b587546021d4f0b296be389512b658dec3c09affeb11a7
+FileChecksum: MD5: 23e615c7010f0ad9f1d2817009733cb9
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Italic.ttf
+SPDXID: SPDXRef-item543540
+FileChecksum: SHA1: aa4de844c5538cb9bf5393ed767884cd72f2b448
+FileChecksum: SHA256: e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0
+FileChecksum: MD5: 333f554fddaa0faf89afc3621a6a18c8
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Regular.ttf
+SPDXID: SPDXRef-item543549
+FileChecksum: SHA1: 6d137827a5b3b5b4ca2378642cdee0f65497ad0b
+FileChecksum: SHA256: f2b83c763e8afd21709333370bed4774337fae82267937e2b5aea7e2fbd922c1
+FileChecksum: MD5: e59b87dce1497a1ba08d472667722916
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Italic.ttf
+SPDXID: SPDXRef-item543545
+FileChecksum: SHA1: 67ec8aefea86e24e6a875e9f5b78437e75edf9e8
+FileChecksum: SHA256: 605c01c711b44480a7508d349dfbf3264e81fa43d69e61cfa7d10b86e764c4d1
+FileChecksum: MD5: fe762a65e22e23c935aff8eda38eaaf3
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Bold.ttf
+SPDXID: SPDXRef-item543548
+FileChecksum: SHA1: 621736fa22ae2661eff1a0a199f882733440a33c
+FileChecksum: SHA256: bd62a0672d0b9b6710b01df434c80ad54fa5f0835207eb7b17b7a761463067bb
+FileChecksum: MD5: e52e17953632fd6f1da5e51c84a6dea7
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-BoldItalic.ttf
+SPDXID: SPDXRef-item543543
+FileChecksum: SHA1: 6dbf7cd701cb1048dd7a2a01f84b5473842bf3ba
+FileChecksum: SHA256: 79451f3c09fe25116098853b7a2ca6e2436220ccc11af022979adbcf195be130
+FileChecksum: MD5: 00bed708fb7614c12c92cfd16f1fb7b8
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-BoldItalic.ttf
+SPDXID: SPDXRef-item543547
+FileChecksum: SHA1: cbf18b615d022b3a49c114c1fdea5170e04e8d08
+FileChecksum: SHA256: 698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee
+FileChecksum: MD5: ad144bbd42d9dccb07db1aae6682b98b
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Bold.ttf
+SPDXID: SPDXRef-item543541
+FileChecksum: SHA1: d38816f0b2205dc619c061a60ef5f250b9bdf231
+FileChecksum: SHA256: d754ba427cfe0bca54ae052384baa8f842da5bd6550ad4da024ac441e7a7d5ce
+FileChecksum: MD5: 184a866d565bae797baa39458fde7ac4
+LicenseConcluded: LicenseRef-OFL-1.0-RFN
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LICENSE
+SPDXID: SPDXRef-item543535
+FileChecksum: SHA1: 0898cb73de9283d38e6f4cef45ce79efbfafb0b2
+FileChecksum: SHA256: 93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b
+FileChecksum: MD5: f96db970a9a46c5369142b99f530366b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-OFL-1.1
+LicenseInfoInFile: LicenseRef-OFL-1.1-no-RFN
+FileCopyrightText: <text> copyright (c) 2010 Google Corporation with Reserved Font Arimo, Tinos and Cousine.
+Copyright (c) 2012 Red Hat, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/AUTHORS
+SPDXID: SPDXRef-item543536
+FileChecksum: SHA1: 69fc9598d947620e42263bf9a2514c8930e4f108
+FileChecksum: SHA256: b627404917ef824675cb24c32e2facd0b57650627955f3fc3d8a8863c5d0adfc
+FileChecksum: MD5: 58b30bc84bd007c25892939df3d1b930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>
+Pravin Satpute <psatpute at redhat dot com>
+Steve Matteson Original Designer Ascender, Inc. </text>
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/TODO
+SPDXID: SPDXRef-item543537
+FileChecksum: SHA1: 4642f9fab220624323b3fd4f1e3e21963d6a1790
+FileChecksum: SHA256: 0c9333c07734cb936d44c592d4cec039200c50ac2bd41869221dbcb9031559bc
+FileChecksum: MD5: 305947dcda207bab7bd34c90e36b9025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/ChangeLog
+SPDXID: SPDXRef-item543539
+FileChecksum: SHA1: a858793df344a1ea278597c3fd54f4bbc55223c6
+FileChecksum: SHA256: 97d9c0c8ae7418fcb8f0f7711be28c92d6fe117895b3019ed455b0631451000a
+FileChecksum: MD5: 5f38975d770dcd60d8b3288b73642d5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/README.md
+SPDXID: SPDXRef-item543551
+FileChecksum: SHA1: 2add6faaa66651c85b469a7bb5018693168d8529
+FileChecksum: SHA256: 625a61d7e161cde3b1e9dd1ff8b7a86c251be536c34266bf1f1a9bd1c15c19e8
+FileChecksum: MD5: b299e3faa7c234556bf272215c56a38c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-OFL-1.1
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+
+LicenseID: LicenseRef-OFL-1.0-RFN
+LicenseName: SIL Open Font License 1.0 with Reserved Font Name
+ExtractedText: <text> SIL OPEN FONT LICENSE
+
+Version 1.0 - 22 November 2005
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of cooperative font projects, to support the font creation efforts of academic and linguistic communities, and to provide an open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and sold with any software provided that the font names of derivative works are changed. The fonts and derivatives, however, cannot be released under any other type of license.
+
+DEFINITIONS
+
+"Font Software" refers to any and all of the following:
+
+- font files
+- data files
+- source code
+- build scripts
+- documentation
+"Reserved Font Name" refers to the Font Software name as seen by users and any other names as specified after the copyright statement.
+
+"Standard Version" refers to the collection of Font Software components as distributed by the Copyright Holder.
+
+"Modified Version" refers to any derivative font software made by adding to, deleting, or substituting — in part or in whole -- any of the components of the Standard Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Standard or Modified Versions, may be sold by itself.
+2) Standard or Modified Versions of the Font Software may be bundled, redistributed and sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+3) No Modified Version of the Font Software may use the Reserved Font Name(s), in part or in whole, unless explicit written permission is granted by the Copyright Holder. This restriction applies to all references stored in the Font Software, such as the font menu name and other font description fields, which are used to differentiate the font from others.
+4) The name(s) of the Copyright Holder or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder and the Author(s) or with their explicit written permission.
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed using this license, and may not be distributed under any other license.
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. </text>
+
+
+  
+LicenseID: LicenseRef-OFL-1.1
+LicenseName: SIL Open Font License 1.1
+ExtractedText: <text> SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting — in part or in whole — any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+ </text>
+
+
+  
+LicenseID: LicenseRef-OFL-1.1-no-RFN
+LicenseName: SIL Open Font License 1.1 with no Reserved Font Name
+ExtractedText: <text> Copyright (c) <dates>, <Copyright Holder> (<URL|email>). This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting — in part or in whole — any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+   1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+   2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+   3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+   4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+   5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. </text>
+

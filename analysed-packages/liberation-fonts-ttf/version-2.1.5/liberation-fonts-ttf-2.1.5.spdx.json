@@ -1,0 +1,552 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2024-06-11T11:50:10Z",
+        "creators": [
+            "Tool: fossology-4.4.0",
+            "Person: Sascha Dierberg"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\nIt contains the license and copyright analysis of liberation-fonts-ttf 2.1.5.\nPlease check \"LicenseComments\" for explanations of concluded licenses.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " SIL OPEN FONT LICENSE\n\nVersion 1.0 - 22 November 2005\n\nPREAMBLE\n\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of cooperative font projects, to support the font creation efforts of academic and linguistic communities, and to provide an open framework in which fonts may be shared and improved in partnership with others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and sold with any software provided that the font names of derivative works are changed. The fonts and derivatives, however, cannot be released under any other type of license.\n\nDEFINITIONS\n\n\"Font Software\" refers to any and all of the following:\n\n- font files\n- data files\n- source code\n- build scripts\n- documentation\n\"Reserved Font Name\" refers to the Font Software name as seen by users and any other names as specified after the copyright statement.\n\n\"Standard Version\" refers to the collection of Font Software components as distributed by the Copyright Holder.\n\n\"Modified Version\" refers to any derivative font software made by adding to, deleting, or substituting \u2014 in part or in whole -- any of the components of the Standard Version, by changing formats or by porting the Font Software to a new environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components, in Standard or Modified Versions, may be sold by itself.\n2) Standard or Modified Versions of the Font Software may be bundled, redistributed and sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n3) No Modified Version of the Font Software may use the Reserved Font Name(s), in part or in whole, unless explicit written permission is granted by the Copyright Holder. This restriction applies to all references stored in the Font Software, such as the font menu name and other font description fields, which are used to differentiate the font from others.\n4) The name(s) of the Copyright Holder or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder and the Author(s) or with their explicit written permission.\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed using this license, and may not be distributed under any other license.\nTERMINATION\n\nThis license becomes null and void if any of the above conditions are not met.\n\nDISCLAIMER\n\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. ",
+            "licenseId": "LicenseRef-OFL-1.0-RFN",
+            "name": "SIL Open Font License 1.0 with Reserved Font Name"
+        },
+        {
+            "extractedText": " SIL OPEN FONT LICENSE\n\nVersion 1.1 - 26 February 2007\n\nPREAMBLE\n\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\n\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting \u2014 in part or in whole \u2014 any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\nTERMINATION\n\nThis license becomes null and void if any of the above conditions are not met.\n\nDISCLAIMER\n\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\n ",
+            "licenseId": "LicenseRef-OFL-1.1",
+            "name": "SIL Open Font License 1.1"
+        },
+        {
+            "extractedText": " Copyright (c) <dates>, <Copyright Holder> (<URL|email>). This Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nThis license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE\n\nVersion 1.1 - 26 February 2007\n\nPREAMBLE\n\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\n\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting \u2014 in part or in whole \u2014 any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\n   1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\n\n   2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\n   3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\n   4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\n   5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\nTERMINATION\n\nThis license becomes null and void if any of the above conditions are not met.\n\nDISCLAIMER\n\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. ",
+            "licenseId": "LicenseRef-OFL-1.1-no-RFN",
+            "name": "SIL Open Font License 1.1 with no Reserved Font Name"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718106610.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload203",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1342eae01b837beff16ac1f8c3614dc01588fae7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "31b453e0b77bacde410a34a725b34f8a"
+                }
+            ],
+            "copyrightText": "\nAUTHORS\n\nCurrent Contributors (sorted alphabetically):\n\n- Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>\nProject Owner/ Maintainer (Current)\nRed Hat, Inc.\n\nPrevious Contributors\n- Pravin Satpute <psatpute at redhat dot com>\nProject Owner/ Maintainer\nRed Hat, Inc.\n\n- Steve Matteson\nOriginal Designer\nAscender, Inc.",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0\".903df0)\n - monk (\"4.4.0\".903df0)\n - ojo (\"4.4.0\".903df0)\n - scancode (\"4.4.0\".903df0) ",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "liberation-fonts-ttf-2.1.5.tar.gz",
+            "packageFileName": "liberation-fonts-ttf-2.1.5.tar.gz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "ba3d12c6fb44f49cadaff0975799ca6ae5daab73"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item543546",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4e5ee6e5de4d35337f7d14fa43222908e28e2d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ab3823f8c454609eab661b54751fd55e"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Bold.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543544",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5f801425d1f93be54e31267813f4367755f096c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0e3dea9f8d613e006ccfa62201f33e265d19167bd0907725c3e145368b04fc2e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "31defdf69fc00c20b9caabe3e76d53e1"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Italic.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543550",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e617879345422a0e204de4b1dff4a41103992d64"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "058ea80864aef09a23f45cbec2bb5400bc3dfbdea01c3f10538a21fcb497fb74"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "732ab01395f607bf178d0f32d841cc71"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Regular.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543538",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "822a13649cfa7475343d52bfb2db9f0358a36822"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d7b4e92b03deb1865aa61328fd5ff400"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Regular.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543542",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e9704cabad534e2a56b32bbbec89a8d7e4e138f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f17db8af71e24d2066b587546021d4f0b296be389512b658dec3c09affeb11a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23e615c7010f0ad9f1d2817009733cb9"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-BoldItalic.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543540",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aa4de844c5538cb9bf5393ed767884cd72f2b448"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "333f554fddaa0faf89afc3621a6a18c8"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Italic.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543549",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6d137827a5b3b5b4ca2378642cdee0f65497ad0b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f2b83c763e8afd21709333370bed4774337fae82267937e2b5aea7e2fbd922c1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e59b87dce1497a1ba08d472667722916"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Regular.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543545",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "67ec8aefea86e24e6a875e9f5b78437e75edf9e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "605c01c711b44480a7508d349dfbf3264e81fa43d69e61cfa7d10b86e764c4d1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fe762a65e22e23c935aff8eda38eaaf3"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Italic.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543548",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "621736fa22ae2661eff1a0a199f882733440a33c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bd62a0672d0b9b6710b01df434c80ad54fa5f0835207eb7b17b7a761463067bb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e52e17953632fd6f1da5e51c84a6dea7"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Bold.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543543",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6dbf7cd701cb1048dd7a2a01f84b5473842bf3ba"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "79451f3c09fe25116098853b7a2ca6e2436220ccc11af022979adbcf195be130"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "00bed708fb7614c12c92cfd16f1fb7b8"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-BoldItalic.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543547",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cbf18b615d022b3a49c114c1fdea5170e04e8d08"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ad144bbd42d9dccb07db1aae6682b98b"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-BoldItalic.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543541",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d38816f0b2205dc619c061a60ef5f250b9bdf231"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d754ba427cfe0bca54ae052384baa8f842da5bd6550ad4da024ac441e7a7d5ce"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "184a866d565bae797baa39458fde7ac4"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Bold.ttf",
+            "licenseConcluded": "LicenseRef-OFL-1.0-RFN",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543535",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0898cb73de9283d38e6f4cef45ce79efbfafb0b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f96db970a9a46c5369142b99f530366b"
+                }
+            ],
+            "copyrightText": " copyright (c) 2010 Google Corporation with Reserved Font Arimo, Tinos and Cousine.\nCopyright (c) 2012 Red Hat, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1",
+                "LicenseRef-OFL-1.1-no-RFN"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543536",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "69fc9598d947620e42263bf9a2514c8930e4f108"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b627404917ef824675cb24c32e2facd0b57650627955f3fc3d8a8863c5d0adfc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "58b30bc84bd007c25892939df3d1b930"
+                }
+            ],
+            "copyrightText": " Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>\nPravin Satpute <psatpute at redhat dot com>\nSteve Matteson Original Designer Ascender, Inc. ",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/AUTHORS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543537",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4642f9fab220624323b3fd4f1e3e21963d6a1790"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0c9333c07734cb936d44c592d4cec039200c50ac2bd41869221dbcb9031559bc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "305947dcda207bab7bd34c90e36b9025"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/TODO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543539",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a858793df344a1ea278597c3fd54f4bbc55223c6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "97d9c0c8ae7418fcb8f0f7711be28c92d6fe117895b3019ed455b0631451000a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5f38975d770dcd60d8b3288b73642d5b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543551",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2add6faaa66651c85b469a7bb5018693168d8529"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "625a61d7e161cde3b1e9dd1ff8b7a86c251be536c34266bf1f1a9bd1c15c19e8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b299e3faa7c234556bf272215c56a38c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-OFL-1.1"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload203",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543546",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543544",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543550",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543538",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543542",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543540",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543549",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543545",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543548",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543543",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543547",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543541",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543535",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543536",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543537",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543539",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload203",
+            "relatedSpdxElement": "SPDXRef-item543551",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
