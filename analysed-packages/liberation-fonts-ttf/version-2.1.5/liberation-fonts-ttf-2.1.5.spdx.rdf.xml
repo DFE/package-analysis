@@ -1,77 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
   xmlns:spdx="http://spdx.org/rdf/terms#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
   <spdx:SpdxDocument rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-DOCUMENT">
-    <spdx:creationInfo>
-      <spdx:CreationInfo rdf:nodeID="N7b09a3af309743918efedaefcf7a5172">
-        <spdx:created>2024-06-12T09:45:54Z</spdx:created>
-        <spdx:creator>Tool: fossology-4.4.0</spdx:creator>
-        <spdx:creator>Person: Sascha Dierberg</spdx:creator>
-        <rdfs:comment>
-This document was created using license information and a generator from Fossology.
-It contains the license and copyright analysis of liberation-fonts-ttf 2.1.5.
-Please check "LicenseComments" for explanations of concluded licenses.
-</rdfs:comment>
-        <spdx:licenseListVersion>3.22</spdx:licenseListVersion>
-      </spdx:CreationInfo>
-    </spdx:creationInfo>
+    <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
     <spdx:name>/srv/fossology/repository/report</spdx:name>
     <spdx:hasExtractedLicensingInfo>
-      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN">
-        <spdx:extractedText> SIL OPEN FONT LICENSE
-
-Version 1.1 - 26 February 2007
-
-PREAMBLE
-
-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
-
-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
-
-DEFINITIONS
-
-"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
-
-"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
-
-"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
-
-"Modified Version" refers to any derivative made by adding to, deleting, or substituting — in part or in whole — any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
-
-"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
-
-PERMISSION &amp; CONDITIONS
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
-
-1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
-
-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
-
-3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
-
-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
-
-5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
-
-TERMINATION
-
-This license becomes null and void if any of the above conditions are not met.
-
-DISCLAIMER
-
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
- </spdx:extractedText>
-        <spdx:name>SIL Open Font License 1.1 with Reserved Font Name</spdx:name>
-        <spdx:licenseId>LicenseRef-OFL-1.1-RFN</spdx:licenseId>
-      </spdx:ExtractedLicensingInfo>
-    </spdx:hasExtractedLicensingInfo>
-    <spdx:hasExtractedLicensingInfo>
       <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1">
-        <spdx:name>SIL Open Font License 1.1</spdx:name>
         <spdx:extractedText> SIL OPEN FONT LICENSE
 
 Version 1.1 - 26 February 2007
@@ -116,13 +53,62 @@ DISCLAIMER
 
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
  </spdx:extractedText>
+        <spdx:name>SIL Open Font License 1.1</spdx:name>
         <spdx:licenseId>LicenseRef-OFL-1.1</spdx:licenseId>
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN">
+        <spdx:name>SIL Open Font License 1.1 with Reserved Font Name</spdx:name>
+        <spdx:licenseId>LicenseRef-OFL-1.1-RFN</spdx:licenseId>
+        <spdx:extractedText> SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting — in part or in whole — any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION &amp; CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+ </spdx:extractedText>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
       <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-no-RFN">
-        <spdx:name>SIL Open Font License 1.1 with no Reserved Font Name</spdx:name>
-        <spdx:licenseId>LicenseRef-OFL-1.1-no-RFN</spdx:licenseId>
         <spdx:extractedText><![CDATA[ Copyright (c) <dates>, <Copyright Holder> (<URL|email>). This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE
@@ -168,150 +154,116 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. ]]></spdx:extractedText>
+        <spdx:name>SIL Open Font License 1.1 with no Reserved Font Name</spdx:name>
+        <spdx:licenseId>LicenseRef-OFL-1.1-no-RFN</spdx:licenseId>
       </spdx:ExtractedLicensingInfo>
     </spdx:hasExtractedLicensingInfo>
     <spdx:relationship>
-      <spdx:Relationship rdf:nodeID="Nd99270dc8169494b8a65589160e68770">
+      <spdx:Relationship rdf:nodeID="N7831a34ad0d74c71ab1d6fcdd521998d">
         <spdx:relatedSpdxElement>
           <spdx:Package rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-upload203">
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ncb507e2e4be649559d0c0d56d9113076">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543549">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N38f3a22b07f94fcea62f5bc22e62e43d">
-                        <spdx:checksumValue>6d137827a5b3b5b4ca2378642cdee0f65497ad0b</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ne9128a172e6842a49b332b22a3e00468">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>e59b87dce1497a1ba08d472667722916</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nb98eb2ef567a47dd9d4a99d8ecc97dae">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>f2b83c763e8afd21709333370bed4774337fae82267937e2b5aea7e2fbd922c1</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Regular.ttf</spdx:fileName>
-                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
-Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:licenseComments> The information in the file is:
-
-Licensed under the SIL Open Font License, Version 1.1
-
-Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
+              <spdx:Relationship rdf:nodeID="Ne30454eb3ebb4cec9bd2eb2b2c05efce">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N47d6b1035e694cab8655b80245f40349">
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543541">
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne3148e1abbc24852b9ef5963deb2e4aa">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>d38816f0b2205dc619c061a60ef5f250b9bdf231</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9689d3da61634bde93160800a871017b">
+                        <spdx:checksumValue>d754ba427cfe0bca54ae052384baa8f842da5bd6550ad4da024ac441e7a7d5ce</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N3c52b9bca0984df0bdbdecb7b3d3a477">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>184a866d565bae797baa39458fde7ac4</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nea51902b10b947b38a5a5087b170894e">
-                        <spdx:checksumValue>184a866d565bae797baa39458fde7ac4</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8a51f19de9dd4e2d9aebd93fa31276e2">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>d754ba427cfe0bca54ae052384baa8f842da5bd6550ad4da024ac441e7a7d5ce</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N6d719a56e27e4a7a83e79bd861ce8273">
-                        <spdx:checksumValue>d38816f0b2205dc619c061a60ef5f250b9bdf231</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Bold.ttf</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                     <spdx:licenseComments> The information in the file is:
 
 Licensed under the SIL Open Font License, Version 1.1
 
 Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Bold.ttf</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nb66b70ba21334401a55716085c1b7a30">
+              <spdx:Relationship rdf:nodeID="N75c82ebc8fcf415e9a2633a544ba06bd">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543545">
+                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9a23f34902844b869676114dcc7af945">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>605c01c711b44480a7508d349dfbf3264e81fa43d69e61cfa7d10b86e764c4d1</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nba22a7e2e5924f84bb1eeab5d16ab287">
+                        <spdx:checksumValue>67ec8aefea86e24e6a875e9f5b78437e75edf9e8</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd21fbeeda5ab4bf68b8727e0c06f1cf9">
+                        <spdx:checksumValue>fe762a65e22e23c935aff8eda38eaaf3</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseComments> The information in the file is:
+
+Licensed under the SIL Open Font License, Version 1.1
+
+Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Italic.ttf</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ne052db910d6c4735a969c36c7cbbdcb0">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543547">
-                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
-Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N76e8492b1e3848ada0c07ffe3315dd04">
-                        <spdx:checksumValue>698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9c83a3d49f3440988a8be8ce21b497ce">
-                        <spdx:checksumValue>cbf18b615d022b3a49c114c1fdea5170e04e8d08</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9fc84f9d6a5944ecaf7c2f7669e9f7b9">
-                        <spdx:checksumValue>ad144bbd42d9dccb07db1aae6682b98b</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseComments> The information in the file is:
-
-Licensed under the SIL Open Font License, Version 1.1
-
-Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                     <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N61e6550b0321460ba0e2f03d8b4bb3c6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>cbf18b615d022b3a49c114c1fdea5170e04e8d08</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf827ff07455a4da1893eda68f2bef624">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>ad144bbd42d9dccb07db1aae6682b98b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9ec2026caa5e4cffad0d79a80acfb3cb">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
                     <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-BoldItalic.ttf</spdx:fileName>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nb1bfd95ee2e649dbafbd75a75af57016">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543550">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N3fe8dfa9235045d995d864caa58c6583">
-                        <spdx:checksumValue>732ab01395f607bf178d0f32d841cc71</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9152538cb8cd4766a79e3fdfcdc19473">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>058ea80864aef09a23f45cbec2bb5400bc3dfbdea01c3f10538a21fcb497fb74</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N5c3b3ea2ef104f7c8a9f185e2be8ab51">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>e617879345422a0e204de4b1dff4a41103992d64</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Regular.ttf</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                     <spdx:licenseComments> The information in the file is:
 
 Licensed under the SIL Open Font License, Version 1.1
@@ -319,71 +271,68 @@ Licensed under the SIL Open Font License, Version 1.1
 Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ndecdf049c6d948f99be80ec659c9f408">
+              <spdx:Relationship rdf:nodeID="N44b14199175241afa2e2280069613abf">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543544">
-                    <spdx:licenseComments> The information in the file is:
-
-Licensed under the SIL Open Font License, Version 1.1
-
-Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543540">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfd55310599014e6bbc7bc1f1dd609f6d">
-                        <spdx:checksumValue>31defdf69fc00c20b9caabe3e76d53e1</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N469458c51d8f4c44819498df83fd7610">
+                        <spdx:checksumValue>333f554fddaa0faf89afc3621a6a18c8</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nbae9421eabf94e30b72a931f486f689d">
-                        <spdx:checksumValue>c5f801425d1f93be54e31267813f4367755f096c</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Ne80b94270c3947559f969eca8611da19">
+                        <spdx:checksumValue>aa4de844c5538cb9bf5393ed767884cd72f2b448</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N34a46f1598e6453eb3db4be56c220dcd">
+                      <spdx:Checksum rdf:nodeID="N49ba5c3afd634cef90bce53e17a18307">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>0e3dea9f8d613e006ccfa62201f33e265d19167bd0907725c3e145368b04fc2e</spdx:checksumValue>
+                        <spdx:checksumValue>e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Italic.ttf</spdx:fileName>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Italic.ttf</spdx:fileName>
+                    <spdx:licenseComments> The information in the file is:
+
+Licensed under the SIL Open Font License, Version 1.1
+
+Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                     <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N7c706d813c764d8ba88a9d9f72ad8a1b">
+              <spdx:Relationship rdf:nodeID="Na3630058267f4d40aedebe73f3d5c9d4">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543543">
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-BoldItalic.ttf</spdx:fileName>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfd6a0ccb19804f07bbaa07622f0a9ecf">
+                      <spdx:Checksum rdf:nodeID="Ne4f59d8e2de244559b570e66b123968a">
                         <spdx:checksumValue>79451f3c09fe25116098853b7a2ca6e2436220ccc11af022979adbcf195be130</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ncb2116ef7afa491eab5cb4dc53e8679d">
-                        <spdx:checksumValue>6dbf7cd701cb1048dd7a2a01f84b5473842bf3ba</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      <spdx:Checksum rdf:nodeID="Ncaddeb25ddbc4bc68cf6b6c328520600">
+                        <spdx:checksumValue>00bed708fb7614c12c92cfd16f1fb7b8</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Na4db7f9f9f894386ae597165670777cc">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>00bed708fb7614c12c92cfd16f1fb7b8</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N7a98d8a01cdd400b8c3a6642e5d5b193">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>6dbf7cd701cb1048dd7a2a01f84b5473842bf3ba</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
                     <spdx:licenseComments> The information in the file is:
 
 Licensed under the SIL Open Font License, Version 1.1
@@ -391,315 +340,327 @@ Licensed under the SIL Open Font License, Version 1.1
 Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-BoldItalic.ttf</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N6c5fa07d0a1d47c3bf475a2ae0c0512a">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543550">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb208ce584bf44a9ea3cd50e33c7b2fb2">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>e617879345422a0e204de4b1dff4a41103992d64</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na81880bd995d448faf57d2ec56146a4f">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>732ab01395f607bf178d0f32d841cc71</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N07d9e82df7744fe1b3fb722e9de2e1d4">
+                        <spdx:checksumValue>058ea80864aef09a23f45cbec2bb5400bc3dfbdea01c3f10538a21fcb497fb74</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Regular.ttf</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:licenseComments> The information in the file is:
+
+Licensed under the SIL Open Font License, Version 1.1
+
+Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N81e5ea43bd0247d29ec7a936d19056ae">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              <spdx:Relationship rdf:nodeID="N6e81c91c40b74dcd8439e43663091d15">
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543535">
+                    <spdx:copyrightText> copyright (c) 2010 Google Corporation with Reserved Font Arimo, Tinos and Cousine.
+Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-no-RFN"/>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N868ad848fe8d40d995d62062ea61210d">
+                      <spdx:Checksum rdf:nodeID="Nec442b3e9f5b42c9a4f6e6bde877029e">
                         <spdx:checksumValue>93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N5c3dbf5f210c481093bfaf554963d09e">
+                      <spdx:Checksum rdf:nodeID="N31ccc72d28c64ec8baa11b241d0e2dd7">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                         <spdx:checksumValue>f96db970a9a46c5369142b99f530366b</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N52909a524c494724ad69897f5c7a86be">
-                        <spdx:checksumValue>0898cb73de9283d38e6f4cef45ce79efbfafb0b2</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Nec0620d36c464d97b8c9fff2e3e00e90">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>0898cb73de9283d38e6f4cef45ce79efbfafb0b2</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText> copyright (c) 2010 Google Corporation with Reserved Font Arimo, Tinos and Cousine.
-Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-no-RFN"/>
                     <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LICENSE</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nddb730d81c1843e1a58519b93642fad1">
+              <spdx:Relationship rdf:nodeID="Ne03fd4ae584742b59b528f0b115276c4">
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543538">
-                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
-Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
                     <spdx:licenseComments> The information in the file is:
 
 Licensed under the SIL Open Font License, Version 1.1
 
 Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                     <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Regular.ttf</spdx:fileName>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ned079b222f604ad79db3a73c96d1a642">
+                      <spdx:Checksum rdf:nodeID="N0e109f61bb0449f1a223de07dfa2e53e">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                         <spdx:checksumValue>822a13649cfa7475343d52bfb2db9f0358a36822</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N06f71645c8cc416d9d7c5db2e173a14f">
-                        <spdx:checksumValue>76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N14bd1def275a476f9508cd7281502324">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N6b26b01be4794d0a97f65df81921528c">
+                      <spdx:Checksum rdf:nodeID="N950462fb6337426a95b11be0bf351465">
                         <spdx:checksumValue>d7b4e92b03deb1865aa61328fd5ff400</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nef2210567afe4877b5df9b0225137e54">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543540">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Na279104ff81d48b8b6648dfb99fb827a">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>333f554fddaa0faf89afc3621a6a18c8</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N1a35394543db4325ad60ddb79c80ba5b">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N36fc6140439f498f82b981f5a5a88f05">
-                        <spdx:checksumValue>aa4de844c5538cb9bf5393ed767884cd72f2b448</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Italic.ttf</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
-                    <spdx:licenseComments> The information in the file is:
-
-Licensed under the SIL Open Font License, Version 1.1
-
-Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nf21e49fbddb94042b4f826f3e002654e">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543536">
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N73ae813843b446e98a537c052b88c095">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>58b30bc84bd007c25892939df3d1b930</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nb9894d49ed814add9ae681df156e6d7b">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>69fc9598d947620e42263bf9a2514c8930e4f108</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N239adb93136b4594a00aadf537e1f1bd">
-                        <spdx:checksumValue>b627404917ef824675cb24c32e2facd0b57650627955f3fc3d8a8863c5d0adfc</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:copyrightText><![CDATA[ Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>
-Pravin Satpute <psatpute at redhat dot com>
-Steve Matteson Original Designer Ascender, Inc. ]]></spdx:copyrightText>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/AUTHORS</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N540168838ed94a9fb3a114a615cf3c59">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543537">
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/TODO</spdx:fileName>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nb748284538184d05bab529290f4c26ab">
-                        <spdx:checksumValue>4642f9fab220624323b3fd4f1e3e21963d6a1790</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N4e86bf8f695640b7a242b69414cf4380">
-                        <spdx:checksumValue>0c9333c07734cb936d44c592d4cec039200c50ac2bd41869221dbcb9031559bc</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfeba32e8190e4c20b67ff8a2a2106d9a">
-                        <spdx:checksumValue>305947dcda207bab7bd34c90e36b9025</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N544671eddcb54da6a45ac32a46ca68e5">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543546">
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
-                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
-Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ne4ff72f746af45878f6582abc50598e0">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N89eb6aa86507464dbbf7a36ca43b77a8">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>4e5ee6e5de4d35337f7d14fa43222908e28e2d8d</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N19352d8636db4c53abf39f91666356ce">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>ab3823f8c454609eab661b54751fd55e</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
                     <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:licenseComments> The information in the file is:
-
-Licensed under the SIL Open Font License, Version 1.1
-
-Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Bold.ttf</spdx:fileName>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Regular.ttf</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N5a78f25f42644523b8699d46672dfeef">
+              <spdx:Relationship rdf:nodeID="N1b1dd4cb063349218cd1e34370a98c9d">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543548">
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Bold.ttf</spdx:fileName>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N74aff44aba4f458ebd04b7367fb674fa">
+                      <spdx:Checksum rdf:nodeID="Nccaf2ac87cbb449e871b866bcb27ea40">
+                        <spdx:checksumValue>e52e17953632fd6f1da5e51c84a6dea7</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na971313e893b4d4187cf433688fc8a1c">
                         <spdx:checksumValue>bd62a0672d0b9b6710b01df434c80ad54fa5f0835207eb7b17b7a761463067bb</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N21c49102a85c46308735f735596ca09e">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      <spdx:Checksum rdf:nodeID="N75015bad9c2b4410aaece13f66bc5165">
                         <spdx:checksumValue>621736fa22ae2661eff1a0a199f882733440a33c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nf9e3566c43dc4743bb14ee1c161f8985">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>e52e17953632fd6f1da5e51c84a6dea7</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Bold.ttf</spdx:fileName>
                     <spdx:licenseComments> The information in the file is:
 
 Licensed under the SIL Open Font License, Version 1.1
 
 Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nfb8c8723524f463b91e6f97109580590">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543546">
+                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSans-Bold.ttf</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7ebb6a664ee148f4bf3d8f605436e7a0">
+                        <spdx:checksumValue>788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na714db3c2e7b430981db9a4dc215ed95">
+                        <spdx:checksumValue>4e5ee6e5de4d35337f7d14fa43222908e28e2d8d</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1fb1fe2633d04293883cbd6f9246e2d1">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>ab3823f8c454609eab661b54751fd55e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseComments> The information in the file is:
+
+Licensed under the SIL Open Font License, Version 1.1
+
+Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N8888520c49354f26b1d517203e5f05b3">
+              <spdx:Relationship rdf:nodeID="N8cf5cdce35b84c368b803c3e9bf91094">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543551">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543549">
+                    <spdx:licenseComments> The information in the file is:
+
+Licensed under the SIL Open Font License, Version 1.1
+
+Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N87d74935ab6e48eaa706db4ba8843e0d">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>b299e3faa7c234556bf272215c56a38c</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Nbd14301db0be4993948f194d25cade9b">
+                        <spdx:checksumValue>f2b83c763e8afd21709333370bed4774337fae82267937e2b5aea7e2fbd922c1</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N242b7ec122bd429197d0cded1c4206ec">
+                      <spdx:Checksum rdf:nodeID="Nb1a155c4fde649488d3e343fe4b8f560">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>6d137827a5b3b5b4ca2378642cdee0f65497ad0b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne42420daf6c9407994e3bcabd853179b">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>e59b87dce1497a1ba08d472667722916</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Regular.ttf</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nbdbb217f934b43faadaec4573004ebab">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543544">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4e68964005804cb79f1c02a8ffad002c">
+                        <spdx:checksumValue>c5f801425d1f93be54e31267813f4367755f096c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nc68954bdf925485db4086bdbc628c7b5">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>0e3dea9f8d613e006ccfa62201f33e265d19167bd0907725c3e145368b04fc2e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N42299108b2bc4313abf9878dd3835d7d">
+                        <spdx:checksumValue>31defdf69fc00c20b9caabe3e76d53e1</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseComments> The information in the file is:
+
+Licensed under the SIL Open Font License, Version 1.1
+
+Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-Italic.ttf</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ndcac40260a034379b98c9a11547d508d">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543551">
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/README.md</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2b384fafe0274ce09da1dabc687cd81c">
+                        <spdx:checksumValue>625a61d7e161cde3b1e9dd1ff8b7a86c251be536c34266bf1f1a9bd1c15c19e8</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2d8ecb9ddcc44301884536fc52398773">
                         <spdx:checksumValue>2add6faaa66651c85b469a7bb5018693168d8529</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nd34ed23ec7b1403488d2c4cd0bc82087">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>625a61d7e161cde3b1e9dd1ff8b7a86c251be536c34266bf1f1a9bd1c15c19e8</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Nfff97ce41f764047b0a65a2fd2a97867">
+                        <spdx:checksumValue>b299e3faa7c234556bf272215c56a38c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/README.md</spdx:fileName>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N5c74f33d127a446a855f5373e6f8ee7e">
+              <spdx:Relationship rdf:nodeID="Nbf2bcc50a86548f08faf9c8db4681da9">
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
                   <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543542">
                     <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-BoldItalic.ttf</spdx:fileName>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N75f24c433a9c4d9781d70c8027c7b3f7">
-                        <spdx:checksumValue>7e9704cabad534e2a56b32bbbec89a8d7e4e138f</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      <spdx:Checksum rdf:nodeID="Nbd6aaf2782b04087941c753cde590763">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>23e615c7010f0ad9f1d2817009733cb9</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Na3d62fbc4cf54e6680b2081268e61a2f">
+                      <spdx:Checksum rdf:nodeID="Nfc68338a07c440a4bfccbe0ac9a70fb6">
                         <spdx:checksumValue>f17db8af71e24d2066b587546021d4f0b296be389512b658dec3c09affeb11a7</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfb79abad7a9a4461b76e7d4b0241921c">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>23e615c7010f0ad9f1d2817009733cb9</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N11a946f035d14fb7bf5caff803320259">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>7e9704cabad534e2a56b32bbbec89a8d7e4e138f</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationSerif-BoldItalic.ttf</spdx:fileName>
                     <spdx:copyrightText> copyright (c) 2010 Google Corporation.
 Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
                     <spdx:licenseComments> The information in the file is:
 
 Licensed under the SIL Open Font License, Version 1.1
@@ -710,28 +671,92 @@ Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N6710ba11923a464ca648c4a2f0c7a8ef">
+              <spdx:Relationship rdf:nodeID="Ne63eb6b2fb1a4162b318cea0b48d3620">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543539">
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543536">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N3037a38ce9ac4cd3b8bafaa07b668fda">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>97d9c0c8ae7418fcb8f0f7711be28c92d6fe117895b3019ed455b0631451000a</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N251598a07a7b42c9ba10837a416c2a9b">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>69fc9598d947620e42263bf9a2514c8930e4f108</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ne5cb5423452941149bad8937dc6ada21">
+                      <spdx:Checksum rdf:nodeID="N345ea458ee5c40808de42a1833921f82">
+                        <spdx:checksumValue>b627404917ef824675cb24c32e2facd0b57650627955f3fc3d8a8863c5d0adfc</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2a65960558c245849752180865c3796e">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>58b30bc84bd007c25892939df3d1b930</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText><![CDATA[ Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>
+Pravin Satpute <psatpute at redhat dot com>
+Steve Matteson Original Designer Ascender, Inc. ]]></spdx:copyrightText>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/AUTHORS</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N9994064031eb40d284f11db26b4bb95e">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543537">
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nfbf3829fc8614c4f9b2b0916fb603c72">
+                        <spdx:checksumValue>4642f9fab220624323b3fd4f1e3e21963d6a1790</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N588f0f0a772b4c05974473b5f78538db">
+                        <spdx:checksumValue>305947dcda207bab7bd34c90e36b9025</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf960048d5f9f4284a9cac84c9d7d9dbb">
+                        <spdx:checksumValue>0c9333c07734cb936d44c592d4cec039200c50ac2bd41869221dbcb9031559bc</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/TODO</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N791f18c451614dca84fe9d8eaac5ed2f">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543539">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7a2c9ee1c0a64f61b84095b2896155e4">
                         <spdx:checksumValue>a858793df344a1ea278597c3fd54f4bbc55223c6</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N71a33c9f18b849d181b252759c66b193">
+                      <spdx:Checksum rdf:nodeID="N352e07a4ae434836ae33d662dadfb1b3">
                         <spdx:checksumValue>5f38975d770dcd60d8b3288b73642d5b</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7b4804207fe64882ba94f24e83341d30">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>97d9c0c8ae7418fcb8f0f7711be28c92d6fe117895b3019ed455b0631451000a</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                     <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/ChangeLog</spdx:fileName>
@@ -740,89 +765,64 @@ Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N25d8fa839bf943698798709e3a9c2b77">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#SPDXRef-item543545">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N47ec8fc25f0443ef918484c228001dc2">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>fe762a65e22e23c935aff8eda38eaaf3</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfd65d4a8ab0a469d99b355e3c28369f9">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>605c01c711b44480a7508d349dfbf3264e81fa43d69e61cfa7d10b86e764c4d1</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N60fe173017714de996c481f3439b0835">
-                        <spdx:checksumValue>67ec8aefea86e24e6a875e9f5b78437e75edf9e8</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1"/>
-                    <spdx:licenseComments> The information in the file is:
-
-Licensed under the SIL Open Font License, Version 1.1
-
-Thus, we concluded OFL-1.1-RFN. </spdx:licenseComments>
-                    <spdx:fileName>liberation-fonts-ttf-2.1.5.tar.gz/liberation-fonts-ttf-2.1.5.tar/liberation-fonts-ttf-2.1.5/LiberationMono-Italic.ttf</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_liberation-fonts-ttf-2.1.5.tar.gz_1718185553.spdx#LicenseRef-OFL-1.1-RFN"/>
-                    <spdx:copyrightText> copyright (c) 2010 Google Corporation.
-Copyright (c) 2012 Red Hat, Inc. </spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-            <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:packageFileName>liberation-fonts-ttf-2.1.5.tar.gz</spdx:packageFileName>
             <spdx:filesAnalyzed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</spdx:filesAnalyzed>
-            <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-            <spdx:checksum>
-              <spdx:Checksum rdf:nodeID="Nbd9f55b3e9e94cc8b5cf5e60189a0267">
-                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                <spdx:checksumValue>31b453e0b77bacde410a34a725b34f8a</spdx:checksumValue>
-              </spdx:Checksum>
-            </spdx:checksum>
-            <spdx:checksum>
-              <spdx:Checksum rdf:nodeID="N7e66fe14c8d84d5da3b1e1414de7a59f">
-                <spdx:checksumValue>7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0</spdx:checksumValue>
-                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-              </spdx:Checksum>
-            </spdx:checksum>
-            <spdx:checksum>
-              <spdx:Checksum rdf:nodeID="N6e4998f3e82b4133b80d2d0c4a44385f">
-                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                <spdx:checksumValue>1342eae01b837beff16ac1f8c3614dc01588fae7</spdx:checksumValue>
-              </spdx:Checksum>
-            </spdx:checksum>
-            <spdx:copyrightText><![CDATA[
-Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>
-Pravin Satpute <psatpute at redhat dot com> 
-Steve Matteson Original Designer Ascender, Inc.
-]]></spdx:copyrightText>
-            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
             <spdx:licenseComments> licenseInfoInFile determined by Scanners:
  - nomos ("4.4.0".903df0)
  - monk ("4.4.0".903df0)
  - ojo ("4.4.0".903df0)
  - scancode ("4.4.0".903df0) </spdx:licenseComments>
+            <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4d639fd050e44fb4b13c1c5d0e9a8cee">
+                <spdx:checksumValue>31b453e0b77bacde410a34a725b34f8a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nb52afe69797c4f8a83c0a45918867fc8">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                <spdx:checksumValue>7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N9cfae2d05b62400c85e3efbcb3ffb42b">
+                <spdx:checksumValue>1342eae01b837beff16ac1f8c3614dc01588fae7</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:name>liberation-fonts-ttf-2.1.5</spdx:name>
+            <spdx:copyrightText><![CDATA[
+Vishal Vijayraghavan <vishalvvr at fedoraproject dot org>
+Pravin Satpute <psatpute at redhat dot com> 
+Steve Matteson Original Designer Ascender, Inc.
+]]></spdx:copyrightText>
+            <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
             <spdx:packageVerificationCode>
-              <spdx:PackageVerificationCode rdf:nodeID="Nc665504f27d1421fbf9759efd3060136">
+              <spdx:PackageVerificationCode rdf:nodeID="N4f1535c70ec74011a6c285a70d60ad7b">
                 <spdx:packageVerificationCodeValue>ba3d12c6fb44f49cadaff0975799ca6ae5daab73</spdx:packageVerificationCodeValue>
               </spdx:PackageVerificationCode>
             </spdx:packageVerificationCode>
-            <spdx:name>liberation-fonts-ttf-2.1.5</spdx:name>
-            <spdx:packageFileName>liberation-fonts-ttf-2.1.5.tar.gz</spdx:packageFileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
           </spdx:Package>
         </spdx:relatedSpdxElement>
         <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
       </spdx:Relationship>
     </spdx:relationship>
+    <spdx:creationInfo>
+      <spdx:CreationInfo rdf:nodeID="N9997686f411844c09c6bc9fc85619238">
+        <spdx:creator>Tool: fossology-4.4.0</spdx:creator>
+        <spdx:creator>Person: Sascha Dierberg</spdx:creator>
+        <spdx:licenseListVersion>3.22</spdx:licenseListVersion>
+        <rdfs:comment>
+This document was created using license information and a generator from Fossology.
+It contains the license and copyright analysis of liberation-fonts-ttf 2.1.5.
+Please check "LicenseComments" for explanations of concluded licenses.
+</rdfs:comment>
+        <spdx:created>2024-06-12T09:45:54Z</spdx:created>
+      </spdx:CreationInfo>
+    </spdx:creationInfo>
     <spdx:specVersion>SPDX-2.3</spdx:specVersion>
-    <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
   </spdx:SpdxDocument>
 </rdf:RDF>
