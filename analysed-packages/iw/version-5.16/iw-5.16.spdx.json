@@ -1,0 +1,1517 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2024-06-26T12:34:36Z",
+        "creators": [
+            "Tool: fossology-4.4.0",
+            "Person: Parian Golchin"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\nIt contains the license and copyright analysis of iw 5.16.\nPlease check \"LicenseComments\" for explanations of concluded licenses.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " Public domain ",
+            "licenseId": "LicenseRef-Public-domain",
+            "name": "Public domain software"
+        },
+        {
+            "extractedText": " Everyone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed. ",
+            "licenseId": "LicenseRef-License-of-GNU-Licenses",
+            "name": "License-of-GNU-Licenses"
+        },
+        {
+            "extractedText": " Permission to use, copy, modify, and /or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. ",
+            "licenseId": "LicenseRef-ISC",
+            "name": "ISC License"
+        },
+        {
+            "extractedText": " An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. ",
+            "licenseId": "LicenseRef-UnclassifiedLicense",
+            "name": "UnclassifiedLicense"
+        },
+        {
+            "extractedText": " License by Scancode. ",
+            "licenseId": "LicenseRef-dco-1.1",
+            "name": "Developer Certificate of Origin 1.1"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload202",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc787cbb559a7578a088fab0c2a2033174d325cc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9c91f2560b258d9660e656ad37fa5bd100ac255865dcfb26076a576b10d8f3a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6409a4fb016fac82fa38203c9256ba9f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0\".903df0)\n - monk (\"4.4.0\".903df0)\n - reportImport (.)\n - ojo (\"4.4.0\".903df0)\n - scancode (\"4.4.0\".903df0) ",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "LicenseRef-ISC",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "iw-5.16.tar.gz",
+            "packageFileName": "iw-5.16.tar.gz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "55c45192b3b440466f9c45756798c1792a5032ef"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item543507",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da8e7f49706b77c4536c4c2c8b64aebae56ef22d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ce847628867df283136f97cf8dc25b85f5e7fa5391a3eee13985810158274eb7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b19d5b962b298517f56c217bf252b227"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sha256.c",
+            "licenseComments": " The information in the file is:\n\nThis is based on SHA256 implementation in LibTomCrypt that was released into public domain by Tom St Denis.\n\nWe checked the internet link https://www.libtom.net/LibTomCrypt/, the following text was displayed:\n\nLibTomCrypt is free for all purposes under the public domain. This includes commercial use, redistribution and even branching.\n\nThus, we concluded public domain.\nThe information was retrieved on June 8th, 2024. ",
+            "licenseConcluded": "LicenseRef-Public-domain",
+            "licenseInfoInFiles": [
+                "LicenseRef-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543517",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "13d7d76912484ce0d855ee37a78cf5e0407181a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0b86d5ca224c70c7da49db0f8deecffff924fba4fc81a8293816e773daaf3f82"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9da48aaca70f514e7970705593d35d61"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 660 York Street, Suite 102, San Francisco, CA 94110 USA\nCopyright (C) 2004, 2006 The Linux Foundation and its contributors. ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/CONTRIBUTING",
+            "licenseComments": " The file contains the text of the DCO, the text is licensed under:\nEveryone is permitted to copy and distribute verbatim copies of this\nlicense document, but changing it is not allowed.\nThus we concluded License-of-GNU-Licenses as license of this file ",
+            "licenseConcluded": "LicenseRef-License-of-GNU-Licenses",
+            "licenseInfoInFiles": [
+                "LicenseRef-UnclassifiedLicense",
+                "LicenseRef-License-of-GNU-Licenses",
+                "LicenseRef-dco-1.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543501",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0f2eb53d832cb92de0abfdf85990e37712981316"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac3bb67f7a83ae027444207794cbdb92f79bccb1620334cbb3cb60904775c940"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c4578975cc8522cb3b7a8780bfda5fbb"
+                }
+            ],
+            "copyrightText": " Copyright 2006-2010 Johannes Berg <johannes@sipsolutions.net>\nCopyright 2008 Michael Wu <flamingice@sourmilk.net>\nCopyright 2008 Luis Carlos Cobo <luisca@cozybit.com>\nCopyright 2008 Michael Buesch <m@bues.ch>\nCopyright 2008, 2009 Luis R. Rodriguez <lrodriguez@atheros.com>\nCopyright 2008 Jouni Malinen <jouni.malinen@atheros.com>\nCopyright 2008 Colin McCabe <colin@cozybit.com>\nCopyright 2015-2017\tIntel Deutschland GmbH\nCopyright (C) 2018-2021 Intel Corporation ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/nl80211.h",
+            "licenseConcluded": "LicenseRef-ISC",
+            "licenseInfoInFiles": [
+                "LicenseRef-ISC"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543479",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b393ee68049ee61e77d436f78758513314cdf6bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c6ce9b39d81ec676435bd6f61b86ffa829d22fb328b7f22813c830780e1eda73"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac457d09e58d448a052fb93c57199d04"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/status.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543480",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb2a68b5020885ef03a8394b693c0937e62a8bc9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "af17e73c549f5b446961b4a43520ba6388cbb9dc563d8634dc17fdf45cc70c4b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54aad95d5ff3909171c274fe607cec4a"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/link.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543481",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "61c4504115aa069b4963c2015e0b9fba418db274"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ec3a65893ee2f5c03cbb8cf2265830a52a777bdd7474b8121ecf6d67473bb5ff"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7c48314a566f2f6cab16f1c2a5e2f82"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/wowlan.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543482",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c1c1925ab41d14a9bcba51ac00c9f7b768fb1a16"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ef5ccbc464c5599d66669b7419524946b2ea90cbf4d4cd7570b1451a8556ad3a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3cc20b8fe51c4b21dd7bbfddb5d73aca"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/roc.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543483",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6cdab831458fce29ac9db864edf458df7cf51eca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "565683aa09a733721b123f52c4bef164ce8f889b74ccf2cdb87d0a553385a344"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7029398c51a7147aa64b518942c29256"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/info.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543484",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd94549fb848757f4e74a7d5f03e58498ddcb3ce"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c72d121306db64de06bb8c955bc7c25e9e4b96e4839feaee63fbe7f0d9f98dcf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67c350a1d8520cb123e32ee488cfa49a"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543485",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b3f6ea2b476a14a128c21340e04bf10c104e42f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "36f38a758dccb52377287f1eaeb80ff8ea138bcebed0e3b01fa64b6bbaf4f1bc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be3e623080816c5d450751ad4f0d9ac5"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ftm.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543486",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d18902f03432982665b4480b3f59f68d17593a0a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5c3ffd7329cf580b0ac7740af8ca57a14c6cdeacca4da8b73d39172948f4b20a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d4eed74960214f5a60287cdd58601d42"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sar.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543487",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1db642bb7b87095a3926f7a9e76dd452cb9c3f4b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "61beab26c129c8b7a539c5cb5ef23a38dab591f7af183b7a0a457ad57f554dcb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b5b7818c53c1e78f760a7332b7187ae"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543488",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3598079ad898d44ef2ef0207ec492404d173519f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a6951ef3295688335ed19abd7007b3c9eba55c428f1e8fd3025606e0dc1dd5c0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c1715cc852a1641ac83a9859b0a30db7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/station.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543489",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4b1af83e3ca0c53739899090fcbd831715e7fb7c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "59ff5b783864f41c90e35cbbcf2aa3df20cb99fbae6fcd896f5c749036b95f73"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "51d677d8c413152cfb0ceb639f829bc4"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/iw.8",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543490",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b9d2a4aee478e24b14916a4679f9dcb7abd71e54"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "16cf848903e883f2a0d39a8e61d8a4113ad640d05be29bb14cd7466b77d0d2e6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aac2d5ed60c8915697b3886ca0c2397c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/version.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543491",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "732486c8e0b18d407d60dc2fdd9bbaf8f01e1f46"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fb55755d9d29174acde1ec8b0f6059f65f72de1af17e52c527ad13ddb9c2403c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "933cd538e6aa05f71baf53eaf760b06f"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/nan.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543492",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e0b77b6976d7d2f2ed74e2e220d741a1eb73663"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "713a4eebaa30d83b866a741da9f7e8320a8257d5720dd1ef8c568a50b7c5a51e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f24e8001621f97b851026e6f5d1c3e4b"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mpp.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543493",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "52b081abcf89aa638a879588aaaa4c8a99873dd4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7b318d2f2cd3f7212b2e87fe214f79be9d77b0c630c6eebd1925168babf3bb11"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "348f5573c0f27e910c7679782673a9da"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/bitrate.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543494",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3bf96a8eaa229ae724e7c5f7dbf403ffcb3c3c8e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2ac686b6d7a072d78225ea60586aa4324d0065b248e66958ebec3545bc248e93"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "11e9d864a523ac89034bcdc9fd49c127"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/connect.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543495",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "de791f6ddf3c5805e71c43fe43af0119857637a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ca528fc7c6edbbafad2770c5dcb12e53c8b9ba83a1f69098fd0b5db5648557b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1e5ac81b531f309b708c61773a239569"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sections.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543496",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6ddf902081cf9ec116859993edf79f7772e612aa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1ae7fa7ae032b2037fe2fa7e3c877d04dd312bd24c17e29844ed0ca1c149a526"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e3a6c9df2600403050d32c6b05c940ba"
+                }
+            ],
+            "copyrightText": " Copyright 2007, 2008\tJohannes Berg <johannes@sipsolutions.net>\nCopyright 2007, 2008\tJohannes Berg <johannes@sipsolutions.net> ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/iw.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543497",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5d9946324f36201cbec083e5216b6b6fe42fa81d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b09a9cd750bf45668b6efa71f240b31d837de11494b8fdeb1a69ef5031fc2107"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1bbff7f423e6b6fe845e9c5dbb5052d7"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ieee80211.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543498",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "78ae668ed3d1634040da0470b7a6486d5fd822df"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "106e6efeebdc41f36c1bf66e86359a76bdc956f4012d1046c0a6b1280df9f393"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "073a93cfe5d1604f1ad99953ad9cde49"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mpath.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543499",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d80e3ff4729d94e8dc723812cdb861feec50b327"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "326746b7b3c506fbca8a4cb5fca37fedd52e74c6e536aade9f4dcad8ba9468a0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a438ca7be67061ec8e415dbf0f41cfc2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/iw.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543500",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "594da3f883ee285dcba4ee68668c8eac205f342e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c2bb5fdf745696e80140d76f0c03921192ac8b9d8da9e08ffafb3e286318b388"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9f6abda1a3764e9102efafb39be93d1a"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mgmt.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543502",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1669367a1e0ff52356030b85e44e1173331876c5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cf8ea72ad57fdb53a8b337653f996ea69e6f38fd8955a12aa2a542619e13c58b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "895dae8f608e588ca05796f7295c10ed"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/coalesce.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543503",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d12fe592e462611c5edd7262b03c2cc3c8622998"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5d9534928fa5677d4092e8b3205d9e7735bbff3b1ce5bf285adcd7e14c02e32"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4dd3cd92d1d6d7760374bf0a8144de8d"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/bloom.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543504",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "570d8dd5d53a79ea9caa58925dfa1f3686c6fb1f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6e208be5743b4450e15fd9fedc9966a0f9babc0053e3725b44d5c6392a97fbc9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a8236a29608994af49d4619e33600427"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ibss.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543505",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5f2af8e8add155273eb6422932d59da630726f13"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a88501eb315d79e8c3fef309d707f4409f45445efe835ad01a57270bb83e01bb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1724e7dc0b9d96d9d9e067020fa1d840"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/phy.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543506",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bb5d1072304948cc9b97177b6a0f4a944e4c7d5a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f22e7f9b8151763b91860a6b7d1588460316127e7166698103bcd5c9a94a54b1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f3bb6e08c120dcab4dec320810e419e"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/measurements.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543508",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0123395e44fcb937ba07185bb07e2563b5e2f20d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "212a020c1623eb668b3bd01bbc2a323365dd1d0db3329811831ce660a22fd6dd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bb51937549ea0a2ad0aaa7f02efcc21d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/interface.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543509",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "44c6c8648d1557f78924b5db32ec84b3540813f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "20fb8d56ed180e1996867a0fbcc0954f8bf55a2763e6dd55062dbdb6e15745f3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d6f4e489c0803287d56e85638d5566d5"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sha256.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543510",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "59cc6f00a8e737ac9d20a9a9a5ca6ea6aec4197f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ef18983954e70933c63fee245211a2a4b5874898a93b986717283917c94cab78"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "db9cf370d1f70c86f1ab81115a46cfa6"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mesh.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543511",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "36268f28c0f92f1934d325966c6f7948e940b7c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7b2f931721838eca4da6dcc86f5d6c5e7d0f4e530df3522ee9454707deda9932"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "82133fe1262d589e27ea306e16d1a73e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/util.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543512",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f512cf7421ca726751d94a07c060f59f9ce0f0c9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2500ec49fd2a5e0e6d0c1ea4fae234d49f65e601156227341dcf3d7f4ebda4c8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "496345aa0cdd625d03f65ba81d5bf1a2"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ps.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543513",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aa6d3644fde66785e32bd4c6fe04df01ec1c0e54"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2eab281d26ed29b63c6279cb2c2c3b5675fc7f477cdf5f9229ed09f89d6307dc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "185d362c8c8d3c0495fa21b8485f256d"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/offch.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543514",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc40101929332db242110edcf3c4a12ff8f83694"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "126ccdd907ea060df34c56349ad55b3e3cba237c931a4ad1b8a383f4bd9c9d2b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "48d9c6f1df6d502f34fd2782566e3c9b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/reg.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543515",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c43afb00362c7b1c316e2b63d4988aaff462765c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2689c4cdfa9a35b744999559dd73cdd64126adf5141ed13732439dfa65153180"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a157f02e543a5ecbad2e22ad1a3a9003"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/Android.mk",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543516",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b9724d67b0e6c28aa21dc916aa9f153b8998326"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "636bf022c7792068fa302d217b2481fc72d22665fd4fd3848ed906ead890f159"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bcd981ced4daf6dc78b297ea36ffd468"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/genl.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543518",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6e93ef9124b102560765f8ce81ad00d521d581e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b286abc97e03739bebfacd641c7c68dc54d3fd02011b25877809b9beb7a31934"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "81ca020d140f449474e00879544c3df6"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/vendor.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543519",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "733f780e306fe2b5c9aa92b45372ffb07978b35e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5932fb70481e128940168a5fdf133e6454293c0865c7e757874b235cb6daa2af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "878618a5c4af25e9b93ef0be1a93f774"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2007, 2008\tJohannes Berg\nCopyright (c) 2007 Andy Lutomirski\nCopyright (c) 2007 Mike Kershaw\nCopyright (c) 2008-2009 Luis R. Rodriguez\nCopyright (c) 2007, 2008\tJohannes Berg\nCopyright (c) 2007 Andy Lutomirski\nCopyright (c) 2007 Mike Kershaw\nCopyright (c) 2008-2009 Luis R. Rodriguez ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/COPYING",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-ISC"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543520",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d2f49d8eb0b5288b4abba442c8c7239100bfee42"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7878fa6975c48182cdca21424bc5d9a05607f81b596d73332cda581f9d7ea168"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3e324cc16eb098ce301c9d916b505246"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/cqm.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543521",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e36dcfce8a86cdb24903cf78f3ef039331f62bb6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9a1dfb78a40de12599c260102466cf9255b530fe1d98b758eeaaf8f5549fdec0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2813e57870cf316be1eaaf8df5ee4242"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/scan.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543522",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "69618b5be63ac3f33c48283f072fd6d03fbcb8be"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8c36b66e43a43851af761277cfde33edd4e089375ef8c20af9ddfc116422e0e2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dc87e1d9fb9ca14a4a8824538717c620"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ap.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543523",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4a7312da1428e61d6538659e77eb96822c544d3e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dfe948eda022e8067eb864b72c48d09c9e0a206a01649ea6ed58074798c2f3db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d4fbd141008c22d364ab6e9dc33010da"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/p2p.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543524",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bc26c06acdc06d1df929a4fae04d744007b9c75b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bb81b7e14193a03658ea0af66ca6c940eba68c25b1edbf33445ba38c2c956da2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e27bce024d8afc5efee86fd0a821b669"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/event.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543525",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "880b630bdb83f697eebaf8eff2cc19e2c8f39875"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c09b57c22ca8ee4b96a1022f25450111fe28ad8f07efe492677951b10b411727"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "12cdcb7d94e5f000d3a31d7c9942ae66"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/hwsim.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543526",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e524f7ae40542ea9d8ab1456537da4c4e781cf5a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f9b598320e3808772370935f24a703fe03cc971e78967a46b578c01e93e167e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1eb18ee8bafca62b3273e6ab7617e648"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ocb.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543527",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2d3b1b691493fae00058c810ff2b39d71be8e65"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "51488505866b6123c8164d1a854e38cf41f61d414c7be4a3c2f5d8dd5144bbdf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "793aae087d4141e0235e81c893144711"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/survey.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543528",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "db5bfe8deba935a81e45cec041eb9d027584db8c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e9a71015e91a78191b6fee53cc876fce220aef8a310bea983b430a96f2f7e169"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "41f1b15b3adec6c9ad4dce3b9fc5b58e"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item543529",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "01533e2753ad2db8eda0ab081e4ec0dabfc5eed6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "84f01f5701a27c288457e361c63dbaa1008b6e623117cde012fc034926ae9d57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5d00bd50fa76c97271df0eb2209439e"
+                }
+            ],
+            "copyrightText": " NOASSERTION ",
+            "fileName": "iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/reason.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload202",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543507",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543517",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543501",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543479",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543480",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543481",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543482",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543483",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543484",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543485",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543486",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543487",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543488",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543489",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543490",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543491",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543492",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543493",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543494",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543495",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543496",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543497",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543498",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543499",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543500",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543502",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543503",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543504",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543505",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543506",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543508",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543509",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543510",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543511",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543512",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543513",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543514",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543515",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543516",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543518",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543519",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543520",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543521",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543522",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543523",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543524",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543525",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543526",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543527",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543528",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload202",
+            "relatedSpdxElement": "SPDXRef-item543529",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
