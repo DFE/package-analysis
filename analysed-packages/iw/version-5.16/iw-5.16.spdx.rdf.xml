@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <spdx:SpdxDocument rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-DOCUMENT">
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N83de003e8ebd4e7296848f1fcf50b1fb">
+        <spdx:relatedSpdxElement>
+          <spdx:Package rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-upload202">
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N8f2b9299aa27441a99a648270d98e0ca">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543487">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2adf2f41d76d4e0a9a632391ec300cf9">
+                        <spdx:checksumValue>1db642bb7b87095a3926f7a9e76dd452cb9c3f4b</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4300d99a65dc4ea88671cbfbd7a424e8">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>61beab26c129c8b7a539c5cb5ef23a38dab591f7af183b7a0a457ad57f554dcb</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4042278be5694af1a040dddf3b84f0d4">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>9b5b7818c53c1e78f760a7332b7187ae</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/.gitignore</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nb4fd055fb8734885b2bc1b9a127f4419">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543483">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0f32b27d170d4493b05b5027b90ce804">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>7029398c51a7147aa64b518942c29256</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N252e6894fb3d4d54b565d6c0a545bff4">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>565683aa09a733721b123f52c4bef164ce8f889b74ccf2cdb87d0a553385a344</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nc7802c0e65f244728219c49fc33141ce">
+                        <spdx:checksumValue>6cdab831458fce29ac9db864edf458df7cf51eca</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/info.c</spdx:fileName>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Na43a7de356234bf4876fd803b2bceec9">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543515">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/Android.mk</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9d19ce34dc684643b9117467fdf5373c">
+                        <spdx:checksumValue>a157f02e543a5ecbad2e22ad1a3a9003</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne27cbed4667a45e1a7e52d026221236b">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>c43afb00362c7b1c316e2b63d4988aaff462765c</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8506bf7c2e124607aea85d2592b7ae3d">
+                        <spdx:checksumValue>2689c4cdfa9a35b744999559dd73cdd64126adf5141ed13732439dfa65153180</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N0d3bf7303041409392d20b7218808618">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543502">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne0f95838fff0434a8bf25fb72ce0639f">
+                        <spdx:checksumValue>1669367a1e0ff52356030b85e44e1173331876c5</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4ed56a93e379469b8b63b5b17700b265">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>cf8ea72ad57fdb53a8b337653f996ea69e6f38fd8955a12aa2a542619e13c58b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7830987320bd439989de3e4f2584cf4d">
+                        <spdx:checksumValue>895dae8f608e588ca05796f7295c10ed</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/coalesce.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N4875f04c3b9f4fec9108ff7291b8b7b2">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543495">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd23280dc6860410bb6c2adb4b7ac57f2">
+                        <spdx:checksumValue>ca528fc7c6edbbafad2770c5dcb12e53c8b9ba83a1f69098fd0b5db5648557b6</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N255f17ab74c246e8a73448773da29317">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>1e5ac81b531f309b708c61773a239569</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N39e88058285c479f9791441e77e87332">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>de791f6ddf3c5805e71c43fe43af0119857637a0</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sections.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nb8783ca56a6740869cfcbbd90a33c660">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543521">
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N95a13aa9fe28456dafe5413f41fcb6c7">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>9a1dfb78a40de12599c260102466cf9255b530fe1d98b758eeaaf8f5549fdec0</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Naa0819171a044e9ea27ec9e724d6c5fe">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>2813e57870cf316be1eaaf8df5ee4242</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nac5e2b23886143b7b2f518cceb3b2499">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>e36dcfce8a86cdb24903cf78f3ef039331f62bb6</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/scan.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nc3056c07f6d04cf987a6508cda886c7a">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543493">
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7b2bb7e7c5d846df84f3cf4d72f054db">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>52b081abcf89aa638a879588aaaa4c8a99873dd4</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0f12cf60734d45a3930f1a5a5900be0a">
+                        <spdx:checksumValue>7b318d2f2cd3f7212b2e87fe214f79be9d77b0c630c6eebd1925168babf3bb11</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb9b0c758db8e4aabbec2c857f3182b0d">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>348f5573c0f27e910c7679782673a9da</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/bitrate.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N2b986eccfbb347a596a9ec40c8c03a56">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543528">
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf7ef9c7492ce4d4f902e498948101292">
+                        <spdx:checksumValue>41f1b15b3adec6c9ad4dce3b9fc5b58e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ndd948f16b43f448bbb3c999fe59a2115">
+                        <spdx:checksumValue>db5bfe8deba935a81e45cec041eb9d027584db8c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N18b2a62103994fa3b610135a10ebbff2">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>e9a71015e91a78191b6fee53cc876fce220aef8a310bea983b430a96f2f7e169</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/README</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N6338c0818077468aa8a8cf957677ca44">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543520">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne47478aa7a714419ae3629e0511dd01e">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>3e324cc16eb098ce301c9d916b505246</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N787f2f09ef0a4c26b5a07b9195a001aa">
+                        <spdx:checksumValue>7878fa6975c48182cdca21424bc5d9a05607f81b596d73332cda581f9d7ea168</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nfa74ce93179d4e73ab5c43391668bce7">
+                        <spdx:checksumValue>d2f49d8eb0b5288b4abba442c8c7239100bfee42</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/cqm.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ne08a24f507734b50b69b064c28b521d9">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543489">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7d5e6e2662a74b1da30433cd3c439b37">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>4b1af83e3ca0c53739899090fcbd831715e7fb7c</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N88abee4e885b405ca06d447b4079c658">
+                        <spdx:checksumValue>59ff5b783864f41c90e35cbbcf2aa3df20cb99fbae6fcd896f5c749036b95f73</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ncf5fa33047e54ecea1a7475d6351c982">
+                        <spdx:checksumValue>51d677d8c413152cfb0ceb639f829bc4</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/iw.8</spdx:fileName>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N52a4c29dbffe4a43ba289a7d7fcb86d3">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543484">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/Makefile</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6a9fa9a771a24e85b2cfb52d985c3e9f">
+                        <spdx:checksumValue>67c350a1d8520cb123e32ee488cfa49a</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne6fbf6e261e8460aa9de3209db74737a">
+                        <spdx:checksumValue>c72d121306db64de06bb8c955bc7c25e9e4b96e4839feaee63fbe7f0d9f98dcf</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6cadd10d8f3749f0ba624e4eac37ebca">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>dd94549fb848757f4e74a7d5f03e58498ddcb3ce</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Na99e9ad33f394af1a7264463b2164f04">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543519">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nfe4c7d33783144b79d2cad6c626d4078">
+                        <spdx:checksumValue>878618a5c4af25e9b93ef0be1a93f774</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N33ddb65b54ed42e2a9b7adcbac168af8">
+                        <spdx:checksumValue>5932fb70481e128940168a5fdf133e6454293c0865c7e757874b235cb6daa2af</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na714bf3ef8eb4d59bb6e63a64de69e15">
+                        <spdx:checksumValue>733f780e306fe2b5c9aa92b45372ffb07978b35e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> Copyright (c) 2007, 2008	Johannes Berg
+Copyright (c) 2007 Andy Lutomirski
+Copyright (c) 2007 Mike Kershaw
+Copyright (c) 2008-2009 Luis R. Rodriguez
+Copyright (c) 2007, 2008	Johannes Berg
+Copyright (c) 2007 Andy Lutomirski
+Copyright (c) 2007 Mike Kershaw
+Copyright (c) 2008-2009 Luis R. Rodriguez </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/COPYING</spdx:fileName>
+                    <spdx:licenseInfoInFile>
+                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-ISC">
+                        <spdx:licenseId>LicenseRef-ISC</spdx:licenseId>
+                        <spdx:extractedText> Permission to use, copy, modify, and /or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. </spdx:extractedText>
+                        <spdx:name>ISC License</spdx:name>
+                      </spdx:ExtractedLicensingInfo>
+                    </spdx:licenseInfoInFile>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nba1e07243c604284a97abc3d70be03f0">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543480">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/link.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2abc254964d84badbe5aafcf50f58af0">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>fb2a68b5020885ef03a8394b693c0937e62a8bc9</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2572dd6fa14243a8859c4de207520f7f">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>54aad95d5ff3909171c274fe607cec4a</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb315e4736a95451c94d9effe3209ca1b">
+                        <spdx:checksumValue>af17e73c549f5b446961b4a43520ba6388cbb9dc563d8634dc17fdf45cc70c4b</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nf86ce91ddd64423fb5c6532f75224db4">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543497">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ieee80211.h</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5d1d75da99d849158ac2e96be4aa1b51">
+                        <spdx:checksumValue>5d9946324f36201cbec083e5216b6b6fe42fa81d</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf6c248bccf75407786eac42b5d1721cc">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>1bbff7f423e6b6fe845e9c5dbb5052d7</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4a21253a27294976be968dd86d3b1171">
+                        <spdx:checksumValue>b09a9cd750bf45668b6efa71f240b31d837de11494b8fdeb1a69ef5031fc2107</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N698f11197ad54d12bd47a7a26d85b250">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543509">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sha256.h</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N51da5ca7a08040df97599e7597eeb7e9">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>d6f4e489c0803287d56e85638d5566d5</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nbd56ac0c9fde4c719f214031637a1f47">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>44c6c8648d1557f78924b5db32ec84b3540813f9</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nca37ea5647d04be0812d35f0dd210fc3">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>20fb8d56ed180e1996867a0fbcc0954f8bf55a2763e6dd55062dbdb6e15745f3</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N67efa1aecda14887abbce53cfd8434dc">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543494">
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6a011112ddce47c2a48929dddd69d0f5">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>3bf96a8eaa229ae724e7c5f7dbf403ffcb3c3c8e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N72444449fa834c739379e1c958e230d4">
+                        <spdx:checksumValue>2ac686b6d7a072d78225ea60586aa4324d0065b248e66958ebec3545bc248e93</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N59341d0e02e248dd8baa65379feb1441">
+                        <spdx:checksumValue>11e9d864a523ac89034bcdc9fd49c127</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/connect.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N322a8a8c065a48c9a2c8c5b3fa67a3a9">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543492">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mpp.c</spdx:fileName>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4bd7d9aa97ae482098f78bc0ca7045ff">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>7e0b77b6976d7d2f2ed74e2e220d741a1eb73663</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na163ef690a2c4bf1b6f0be58df14285c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>f24e8001621f97b851026e6f5d1c3e4b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nfd8d6ba2e55e4ec198eb02e6ade7b040">
+                        <spdx:checksumValue>713a4eebaa30d83b866a741da9f7e8320a8257d5720dd1ef8c568a50b7c5a51e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N88597723abbc4eefb80c15567d3faf94">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543510">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0ad613c7e446428f997d57ae94f7644d">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>ef18983954e70933c63fee245211a2a4b5874898a93b986717283917c94cab78</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf34dca985eeb431cbe506427edc9240d">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>59cc6f00a8e737ac9d20a9a9a5ca6ea6aec4197f</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N104d5cad70f34a44957c240c6ea4ad4b">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>db9cf370d1f70c86f1ab81115a46cfa6</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mesh.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N059b6cce0d7d44209a7b9edd245006d9">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543517">
+                    <spdx:licenseInfoInFile>
+                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-UnclassifiedLicense">
+                        <spdx:extractedText> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </spdx:extractedText>
+                        <spdx:name>UnclassifiedLicense</spdx:name>
+                        <spdx:licenseId>LicenseRef-UnclassifiedLicense</spdx:licenseId>
+                      </spdx:ExtractedLicensingInfo>
+                    </spdx:licenseInfoInFile>
+                    <spdx:licenseInfoInFile>
+                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-dco-1.1">
+                        <spdx:name>Developer Certificate of Origin 1.1</spdx:name>
+                        <spdx:extractedText> License by Scancode. </spdx:extractedText>
+                        <spdx:licenseId>LicenseRef-dco-1.1</spdx:licenseId>
+                      </spdx:ExtractedLicensingInfo>
+                    </spdx:licenseInfoInFile>
+                    <spdx:licenseInfoInFile>
+                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-License-of-GNU-Licenses">
+                        <spdx:extractedText> Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed. </spdx:extractedText>
+                        <spdx:name>License-of-GNU-Licenses</spdx:name>
+                        <spdx:licenseId>LicenseRef-License-of-GNU-Licenses</spdx:licenseId>
+                      </spdx:ExtractedLicensingInfo>
+                    </spdx:licenseInfoInFile>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1c07e982f2864ea0a24e4dd457772235">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>13d7d76912484ce0d855ee37a78cf5e0407181a0</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N768ddadf16864567864cfbf48cca80ae">
+                        <spdx:checksumValue>9da48aaca70f514e7970705593d35d61</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N230907a8c47848f4a7f4b1fc76e7d836">
+                        <spdx:checksumValue>0b86d5ca224c70c7da49db0f8deecffff924fba4fc81a8293816e773daaf3f82</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 660 York Street, Suite 102, San Francisco, CA 94110 USA
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors. </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/CONTRIBUTING</spdx:fileName>
+                    <spdx:licenseComments> The file contains the text of the DCO, the text is licensed under:
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+Thus we concluded License-of-GNU-Licenses as license of this file </spdx:licenseComments>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-License-of-GNU-Licenses"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nbb543a0da1a64917bcd2e7dc9c8b09d0">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543512">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb00f00fd47c048d0b56447e5edad9bb9">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>2500ec49fd2a5e0e6d0c1ea4fae234d49f65e601156227341dcf3d7f4ebda4c8</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N10e422ec7df348899354164925e78fab">
+                        <spdx:checksumValue>496345aa0cdd625d03f65ba81d5bf1a2</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6afeb40a712d4f88b34d50fb4e498630">
+                        <spdx:checksumValue>f512cf7421ca726751d94a07c060f59f9ce0f0c9</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ps.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N9a293df494e1407397975972696cb36c">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543504">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ibss.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N20a194c58e7f4d4c998a966ceff4f23c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>a8236a29608994af49d4619e33600427</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6d67d11fc48543bfa36716aa862fff80">
+                        <spdx:checksumValue>6e208be5743b4450e15fd9fedc9966a0f9babc0053e3725b44d5c6392a97fbc9</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6a291c284b2045e8bf4c72da9c75801b">
+                        <spdx:checksumValue>570d8dd5d53a79ea9caa58925dfa1f3686c6fb1f</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N493d02274f9a4fafae0ff11de6268a70">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543481">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8ea2513a81d24760a04381fb8b2519ed">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>61c4504115aa069b4963c2015e0b9fba418db274</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf0aea57733ae41088ef78794a285aac3">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>ec3a65893ee2f5c03cbb8cf2265830a52a777bdd7474b8121ecf6d67473bb5ff</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Naa421965fb45444099683c5eac46bb75">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>c7c48314a566f2f6cab16f1c2a5e2f82</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/wowlan.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nbb3c74ddb1b24f31838cebcbfb65f8d8">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543525">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0d5ef472b3514d599d25f0ffc18525b1">
+                        <spdx:checksumValue>c09b57c22ca8ee4b96a1022f25450111fe28ad8f07efe492677951b10b411727</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne947e507accf40eea35ec7b49dc165fd">
+                        <spdx:checksumValue>880b630bdb83f697eebaf8eff2cc19e2c8f39875</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8992497e97564232aee6b204f20919ab">
+                        <spdx:checksumValue>12cdcb7d94e5f000d3a31d7c9942ae66</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/hwsim.c</spdx:fileName>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N7afe1636be534ea98e3c7191b855db1e">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543518">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N56637d8907814c958ff1ae9a136e7096">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>b286abc97e03739bebfacd641c7c68dc54d3fd02011b25877809b9beb7a31934</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb83473a0f77c4b4d9a132d1ac9a9ce39">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>81ca020d140f449474e00879544c3df6</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N29ae389a5a384070a3d65ddcbc230768">
+                        <spdx:checksumValue>6e93ef9124b102560765f8ce81ad00d521d581e8</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/vendor.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N8af311cfa8294ad8aeedd94fe27b309a">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543479">
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N38f3b23cc6f8489687a10c5e7549e974">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>c6ce9b39d81ec676435bd6f61b86ffa829d22fb328b7f22813c830780e1eda73</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb04bedcdd8ea4c5492433dea76c079a9">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>b393ee68049ee61e77d436f78758513314cdf6bb</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nca5d8835fa3c46a78766ee03b0284a5a">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>ac457d09e58d448a052fb93c57199d04</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/status.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N76c868a9b50849ccaa52b7c7b4d6038e">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543500">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N074c71e7a4d645bca2eacd2a18fb8e29">
+                        <spdx:checksumValue>c2bb5fdf745696e80140d76f0c03921192ac8b9d8da9e08ffafb3e286318b388</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9c1274a83aab4f62a1ee0e50b48b2394">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>594da3f883ee285dcba4ee68668c8eac205f342e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ndb210cbc53544898a93089e3d0a1a670">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>9f6abda1a3764e9102efafb39be93d1a</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mgmt.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N05a307993d0240d4aadf188e20374f79">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543524">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N922b939446ee4808ab962d18b3fcb525">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>bb81b7e14193a03658ea0af66ca6c940eba68c25b1edbf33445ba38c2c956da2</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1c75fe733eee41c9b2221270398af677">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>e27bce024d8afc5efee86fd0a821b669</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N63f8cd072ea54922b1416f6ab520a6e1">
+                        <spdx:checksumValue>bc26c06acdc06d1df929a4fae04d744007b9c75b</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/event.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N730463dfd890414fb64942068f971a06">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543527">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N669bafd7c450468eade694def3ca7901">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>793aae087d4141e0235e81c893144711</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5f140abebd51484b883727e51428e552">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>a2d3b1b691493fae00058c810ff2b39d71be8e65</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7da16f7ee0864596ae2d01538f824739">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>51488505866b6123c8164d1a854e38cf41f61d414c7be4a3c2f5d8dd5144bbdf</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/survey.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nb4f90b6eba8f472b9201e31adba72a3e">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543501">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N98b881215d65452db836e0d85264fb3a">
+                        <spdx:checksumValue>0f2eb53d832cb92de0abfdf85990e37712981316</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7cb3398e2aaf44b584975be548184f7e">
+                        <spdx:checksumValue>ac3bb67f7a83ae027444207794cbdb92f79bccb1620334cbb3cb60904775c940</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nea6603b55e3144019db764dcffea5dd5">
+                        <spdx:checksumValue>c4578975cc8522cb3b7a8780bfda5fbb</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/nl80211.h</spdx:fileName>
+                    <spdx:copyrightText><![CDATA[ Copyright 2006-2010 Johannes Berg <johannes@sipsolutions.net>
+Copyright 2008 Michael Wu <flamingice@sourmilk.net>
+Copyright 2008 Luis Carlos Cobo <luisca@cozybit.com>
+Copyright 2008 Michael Buesch <m@bues.ch>
+Copyright 2008, 2009 Luis R. Rodriguez <lrodriguez@atheros.com>
+Copyright 2008 Jouni Malinen <jouni.malinen@atheros.com>
+Copyright 2008 Colin McCabe <colin@cozybit.com>
+Copyright 2015-2017	Intel Deutschland GmbH
+Copyright (C) 2018-2021 Intel Corporation ]]></spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-ISC"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-ISC"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N341f4ce7eed54cdda12d509a74c21659">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543516">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N55d31832648f4d35b0da5a4ad1da8514">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>3b9724d67b0e6c28aa21dc916aa9f153b8998326</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1da8373e130b4be58eef31beab07d3dd">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>636bf022c7792068fa302d217b2481fc72d22665fd4fd3848ed906ead890f159</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N49c74eac5d81447fa6502d2681ce6c00">
+                        <spdx:checksumValue>bcd981ced4daf6dc78b297ea36ffd468</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/genl.c</spdx:fileName>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nda694b7332684a7a8553dcd49ac66961">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543514">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N494d94308ad846568d5034fb2c402b25">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>126ccdd907ea060df34c56349ad55b3e3cba237c931a4ad1b8a383f4bd9c9d2b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N41c4110053614d9bbb99c956147d3823">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>fc40101929332db242110edcf3c4a12ff8f83694</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N022309dfa51543a9a1345581059d3b84">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>48d9c6f1df6d502f34fd2782566e3c9b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/reg.c</spdx:fileName>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N070f567836b34f5b92fd35afd5e70ff8">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543508">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne1152fd4e6814f83939065cb1dce8c5f">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>212a020c1623eb668b3bd01bbc2a323365dd1d0db3329811831ce660a22fd6dd</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N44ebec651f7b4d93821275b9d14dde49">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>0123395e44fcb937ba07185bb07e2563b5e2f20d</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne9df14c03faa468295d0cf10dd7258bd">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>bb51937549ea0a2ad0aaa7f02efcc21d</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/interface.c</spdx:fileName>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N4b7f42c06d7949689aa60bc55c08f6fd">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543498">
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5c951770729c49dbb8af65197cb5d1eb">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>78ae668ed3d1634040da0470b7a6486d5fd822df</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N3b2b0a8550d8477e86ae586e4163b8dc">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>073a93cfe5d1604f1ad99953ad9cde49</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N16e3388098aa46c8af662347c6b0204c">
+                        <spdx:checksumValue>106e6efeebdc41f36c1bf66e86359a76bdc956f4012d1046c0a6b1280df9f393</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/mpath.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N8fd1abe717294c9f8c6640e229139e0d">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543506">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/measurements.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N929f6e542282440f88e49961344eb2fc">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>bb5d1072304948cc9b97177b6a0f4a944e4c7d5a</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nc07a5aaa7c024ce6b7e1360244aac4a4">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>6f3bb6e08c120dcab4dec320810e419e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Naf7a327fdb7844839634126b18146ce5">
+                        <spdx:checksumValue>f22e7f9b8151763b91860a6b7d1588460316127e7166698103bcd5c9a94a54b1</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ndc2eddf6779246309d9497c7e1e3fa40">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543490">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf0db17f2cab94fc9ab388d4fea83c4ac">
+                        <spdx:checksumValue>b9d2a4aee478e24b14916a4679f9dcb7abd71e54</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf0ef47e5a8ae43e1bc22322903fcdd3b">
+                        <spdx:checksumValue>aac2d5ed60c8915697b3886ca0c2397c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9d1c1bfe013b48c0a7e519d8a7abb6a4">
+                        <spdx:checksumValue>16cf848903e883f2a0d39a8e61d8a4113ad640d05be29bb14cd7466b77d0d2e6</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/version.sh</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N5d0da74feec94bf480c8bbd74976175c">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543522">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N44bea978c6ab4c6397ef19518e5bd1db">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>69618b5be63ac3f33c48283f072fd6d03fbcb8be</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nee453039369b436e8b03404bfe4210da">
+                        <spdx:checksumValue>8c36b66e43a43851af761277cfde33edd4e089375ef8c20af9ddfc116422e0e2</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N36c682e37fc9493fb7ccbde26443c527">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>dc87e1d9fb9ca14a4a8824538717c620</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ap.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nceebf45e4e67430296cbb0a5490161aa">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543499">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/iw.h</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N86ac4bdabbd74987bf1364cd05902d6a">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>326746b7b3c506fbca8a4cb5fca37fedd52e74c6e536aade9f4dcad8ba9468a0</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N3e9b497c339f44269ab701ca3918bd40">
+                        <spdx:checksumValue>a438ca7be67061ec8e415dbf0f41cfc2</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Naeef1ea3199948179049ecdea1d59ec8">
+                        <spdx:checksumValue>d80e3ff4729d94e8dc723812cdb861feec50b327</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N7e8448f42dc14b0c86597311bea97562">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543482">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/roc.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0dfc0a84d6f14853b0c52d6e92d37594">
+                        <spdx:checksumValue>ef5ccbc464c5599d66669b7419524946b2ea90cbf4d4cd7570b1451a8556ad3a</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb35e7b3a61fb4eacb49c31725b19ad5f">
+                        <spdx:checksumValue>3cc20b8fe51c4b21dd7bbfddb5d73aca</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9717d396205f48a7ac5d168ca7c24ab8">
+                        <spdx:checksumValue>c1c1925ab41d14a9bcba51ac00c9f7b768fb1a16</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N188be1f6fb974a42840b6e2236502e71">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543488">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N70ae8f2e2f3a48fdb69eec41639846d9">
+                        <spdx:checksumValue>a6951ef3295688335ed19abd7007b3c9eba55c428f1e8fd3025606e0dc1dd5c0</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9aeb7116fc2b4d818121cde95c0c9dd6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>3598079ad898d44ef2ef0207ec492404d173519f</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb82551d214be4dd58332960a69ce5f77">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>c1715cc852a1641ac83a9859b0a30db7</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/station.c</spdx:fileName>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N1ddbf3cd3cf14cb7afdef3ac6eba986a">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543507">
+                    <spdx:licenseInfoInFile>
+                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-Public-domain">
+                        <spdx:name>Public domain software</spdx:name>
+                        <spdx:extractedText> Public domain </spdx:extractedText>
+                        <spdx:licenseId>LicenseRef-Public-domain</spdx:licenseId>
+                      </spdx:ExtractedLicensingInfo>
+                    </spdx:licenseInfoInFile>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sha256.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-Public-domain"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na902bcc1bcbc4d928fbffe8a2059c4b9">
+                        <spdx:checksumValue>da8e7f49706b77c4536c4c2c8b64aebae56ef22d</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8c197d4247a345458a1e0a61d7bbbd21">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>b19d5b962b298517f56c217bf252b227</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N13961643129647aaa6d54995dfccec83">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>ce847628867df283136f97cf8dc25b85f5e7fa5391a3eee13985810158274eb7</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseComments> The information in the file is:
+
+This is based on SHA256 implementation in LibTomCrypt that was released into public domain by Tom St Denis.
+
+We checked the internet link https://www.libtom.net/LibTomCrypt/, the following text was displayed:
+
+LibTomCrypt is free for all purposes under the public domain. This includes commercial use, redistribution and even branching.
+
+Thus, we concluded public domain.
+The information was retrieved on June 8th, 2024. </spdx:licenseComments>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N05baefc3821742e986f11043a0ddc466">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543526">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd432d1041ac04d5bb280caf0ad7f2598">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>5f9b598320e3808772370935f24a703fe03cc971e78967a46b578c01e93e167e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb310b59339a14572b304a6b9419a5bbc">
+                        <spdx:checksumValue>e524f7ae40542ea9d8ab1456537da4c4e781cf5a</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1da617df8da2474fb686f26e15181bc6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>1eb18ee8bafca62b3273e6ab7617e648</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ocb.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N3616b6cc1ff14b9aae34fa7d2da86e9f">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543529">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd0a3c31f88f94902b1ad9953a8ef5753">
+                        <spdx:checksumValue>01533e2753ad2db8eda0ab081e4ec0dabfc5eed6</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd2e63ba754ce4562957e0a83c3ccbfff">
+                        <spdx:checksumValue>d5d00bd50fa76c97271df0eb2209439e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nbd437ae60c464293830d3feaa5460a0c">
+                        <spdx:checksumValue>84f01f5701a27c288457e361c63dbaa1008b6e623117cde012fc034926ae9d57</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/reason.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N446c1fdf72714f0f89011fa51fd60625">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543496">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf6af8d2fa9574ba49e4a288c5f392f6d">
+                        <spdx:checksumValue>1ae7fa7ae032b2037fe2fa7e3c877d04dd312bd24c17e29844ed0ca1c149a526</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N934a9d26d95f41b29d592e9a43ac45af">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>6ddf902081cf9ec116859993edf79f7772e612aa</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4e069d360e1f430d87b49e7dd06fc780">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>e3a6c9df2600403050d32c6b05c940ba</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText><![CDATA[ Copyright 2007, 2008	Johannes Berg <johannes@sipsolutions.net>
+Copyright 2007, 2008	Johannes Berg <johannes@sipsolutions.net> ]]></spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/iw.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N8250ff37c3b54e05ba7a9d5881ce6096">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543505">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/phy.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na9be3534d9a143ca83924db5425f20c7">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>5f2af8e8add155273eb6422932d59da630726f13</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N025d4adca982404fa8f87ef02630c475">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>a88501eb315d79e8c3fef309d707f4409f45445efe835ad01a57270bb83e01bb</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7748e7b3e47c43c78ebe1cba9dd3d395">
+                        <spdx:checksumValue>1724e7dc0b9d96d9d9e067020fa1d840</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nbc23917e73384dc8a60951377e9a431f">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543503">
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/bloom.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0a9d686e4c0b4acfba338eeb3d78270a">
+                        <spdx:checksumValue>d12fe592e462611c5edd7262b03c2cc3c8622998</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ndb004f88a6ef46b9a1003aabdee1e23e">
+                        <spdx:checksumValue>4dd3cd92d1d6d7760374bf0a8144de8d</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N11c44811385a41b48dec3d21ad55bf05">
+                        <spdx:checksumValue>e5d9534928fa5677d4092e8b3205d9e7735bbff3b1ce5bf285adcd7e14c02e32</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N5fc4721d4327454cb57f1f496fdb25af">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543523">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6088a9712bca4e5e8e9521aae803b82c">
+                        <spdx:checksumValue>d4fbd141008c22d364ab6e9dc33010da</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9086e794d5f048d19b081be4766b122e">
+                        <spdx:checksumValue>4a7312da1428e61d6538659e77eb96822c544d3e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6a7af7d58af4407e9b07c8c6bb33bf86">
+                        <spdx:checksumValue>dfe948eda022e8067eb864b72c48d09c9e0a206a01649ea6ed58074798c2f3db</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/p2p.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N71a938c866164fa0a039e5c31c67f0a3">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543511">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd562a1a1b7014a518def9ab1d3a8f65d">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>36268f28c0f92f1934d325966c6f7948e940b7c4</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Naa2414e696034fa0ad321cced3bd021b">
+                        <spdx:checksumValue>82133fe1262d589e27ea306e16d1a73e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N023f401ce4534e5aa4c0fc62d29f0786">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>7b2f931721838eca4da6dcc86f5d6c5e7d0f4e530df3522ee9454707deda9932</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/util.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N421fa9620f7c4c7788bb581199ee9546">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543485">
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N15531eb2263e46859cd7727ce1d10691">
+                        <spdx:checksumValue>be3e623080816c5d450751ad4f0d9ac5</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne57ab69f8da4456a8336c1607afb127d">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>3b3f6ea2b476a14a128c21340e04bf10c104e42f</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na83272024bb64548bb3d258419017b2c">
+                        <spdx:checksumValue>36f38a758dccb52377287f1eaeb80ff8ea138bcebed0e3b01fa64b6bbaf4f1bc</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/ftm.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N00fa75bb645b497590ea63d6fb6b233a">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543491">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N709417a77acf4f01bc0ad4f4a47c7d2a">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>933cd538e6aa05f71baf53eaf760b06f</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9b656dcb3b734110bde676b5314c230c">
+                        <spdx:checksumValue>732486c8e0b18d407d60dc2fdd9bbaf8f01e1f46</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nba1b19d64c41466f95fa1b9b53f1afb5">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>fb55755d9d29174acde1ec8b0f6059f65f72de1af17e52c527ad13ddb9c2403c</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/nan.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N783fb1aa62ad4d0482425c43b70f98e8">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543513">
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N41731f08b0204dc19564c88e38c941e5">
+                        <spdx:checksumValue>185d362c8c8d3c0495fa21b8485f256d</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N3a9fa3914ac94d7399decf99443fb780">
+                        <spdx:checksumValue>2eab281d26ed29b63c6279cb2c2c3b5675fc7f477cdf5f9229ed09f89d6307dc</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N91ca484a2e1f4483ba58c320fe6e720a">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>aa6d3644fde66785e32bd4c6fe04df01ec1c0e54</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/offch.c</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N30cc6177a6f14289aab091a332b84b3a">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#SPDXRef-item543486">
+                    <spdx:copyrightText> NOASSERTION </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N16ddbc08231e493f9d935b64bba5e063">
+                        <spdx:checksumValue>d18902f03432982665b4480b3f59f68d17593a0a</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0066347bf085487c9b3e29255712bddc">
+                        <spdx:checksumValue>5c3ffd7329cf580b0ac7740af8ca57a14c6cdeacca4da8b73d39172948f4b20a</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb05be3f121604c4794984aae76702177">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>d4eed74960214f5a60287cdd58601d42</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>iw-5.16.tar.gz/iw-5.16.tar/iw-5.16/sar.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:packageVerificationCode>
+              <spdx:PackageVerificationCode rdf:nodeID="Neb639b57cd0d4d24a71702f2be677591">
+                <spdx:packageVerificationCodeValue>55c45192b3b440466f9c45756798c1792a5032ef</spdx:packageVerificationCodeValue>
+              </spdx:PackageVerificationCode>
+            </spdx:packageVerificationCode>
+            <spdx:licenseComments> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0".903df0)
+ - monk ("4.4.0".903df0)
+ - reportImport (.)
+ - ojo ("4.4.0".903df0)
+ - scancode ("4.4.0".903df0) </spdx:licenseComments>
+            <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N54a26f3fa85c4c2bab598425c37c8eb1">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                <spdx:checksumValue>9c91f2560b258d9660e656ad37fa5bd100ac255865dcfb26076a576b10d8f3a7</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N68f1915d65084ca1813dc38072b23e4c">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>cc787cbb559a7578a088fab0c2a2033174d325cc</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N9c6669a627b048f9b464fbe3ae445a51">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                <spdx:checksumValue>6409a4fb016fac82fa38203c9256ba9f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:name>iw-5.16.tar.gz</spdx:name>
+            <spdx:licenseDeclared rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-ISC"/>
+            <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:filesAnalyzed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</spdx:filesAnalyzed>
+            <spdx:packageFileName>iw-5.16.tar.gz</spdx:packageFileName>
+          </spdx:Package>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-dco-1.1"/>
+    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-ISC"/>
+    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-License-of-GNU-Licenses"/>
+    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-UnclassifiedLicense"/>
+    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_iw-5.16.tar.gz_1719405276.spdx#LicenseRef-Public-domain"/>
+    <spdx:name>/srv/fossology/repository/report</spdx:name>
+    <spdx:specVersion>SPDX-2.3</spdx:specVersion>
+    <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+    <spdx:creationInfo>
+      <spdx:CreationInfo rdf:nodeID="N0b6d8659f6f84ef98a06707aa54ff704">
+        <spdx:created>2024-06-26T12:34:36Z</spdx:created>
+        <spdx:creator>Tool: fossology-4.4.0</spdx:creator>
+        <spdx:creator>Person: Parian Golchin</spdx:creator>
+        <spdx:licenseListVersion>3.22</spdx:licenseListVersion>
+        <rdfs:comment>
+This document was created using license information and a generator from Fossology.
+It contains the license and copyright analysis of iw 5.16.
+Please check "LicenseComments" for explanations of concluded licenses.
+</rdfs:comment>
+      </spdx:CreationInfo>
+    </spdx:creationInfo>
+  </spdx:SpdxDocument>
+</rdf:RDF>
