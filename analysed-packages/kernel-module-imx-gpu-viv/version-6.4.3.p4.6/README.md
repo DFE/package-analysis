@@ -1,10 +1,10 @@
 ## Download Location
 
-https://github.com/sbabic/libubootenv/archive/refs/tags/v0.3.2.tar.gz
+https://github.com/Freescale/kernel-module-imx-gpu-viv/archive/refs/tags/upstream/6.4.3.p4.6.tar.gz
 
 ## Package URL (purl)
 
-[PurlLink]
+pkg:github/freescale/kernel-module-imx-gpu-viv@6.4.3.p4.6
 
 ## Creator
 
