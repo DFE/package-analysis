@@ -5,7 +5,7 @@ DataLicense: CC0-1.0
 ## Document Information
 ##-------------------------
 
-DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_fribidi-1.0.12.tar.xz_1717622685.spdx
+DocumentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_fribidi-1.0.12.tar.xz_1726693713.spdx
 DocumentName: /srv/fossology/repository/report
 SPDXID: SPDXRef-DOCUMENT
 
@@ -20,7 +20,7 @@ This document was created using license information and a generator from Fossolo
 It contains the license and copyright analysis of fribidi 1.0.12.
 Please check "LicenseComments" for explanations of concluded licenses.
 </text>
-Created: 2024-06-05T21:24:45Z
+Created: 2024-09-18T21:08:33Z
 LicenseListVersion: 3.22
 
 ##-------------------------
@@ -44,7 +44,19 @@ PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
  - monk ("4.4.0".903df0)
  - ojo ("4.4.0".903df0) </text>
 PackageLicenseInfoFromFiles: NOASSERTION
-PackageCopyrightText: NOASSERTION
+PackageCopyrightText: <text>
+
+The content of the AUTHORS file:
+
+Authors listed in the AUTHORS file:
+
+------------------------------------------------
+Behdad Esfahbod <behdad@gnu.org>
+Dov Grobgeld <dov.grobgeld@gmail.com>
+Roozbeh Pournader <roozbeh@gnu.org>
+Khaled Hosny <khaledhosny@eglug.org>
+</text>
+
 
 Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload125
 
@@ -103,7 +115,8 @@ LicenseConcluded: LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception-generic
 LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-Autoconf-exception
 LicenseInfoInFile: LicenseRef-Autoconf-exception-generic
-FileCopyrightText: <text> Copyright (C) 1999-2020 Free Software Foundation, Inc. </text>
+FileCopyrightText: <text> Copyright (C) 1999-2020 Free Software Foundation, Inc.
+Originally written by Alexandre Oliva <oliva@dcc.unicamp.br>. </text>
 
 ##File
 
@@ -1355,7 +1368,13 @@ FileChecksum: SHA256: cb173f55c9514c8f38f4647ac3fedd5f8611358d331e65ab955da931e8
 FileChecksum: MD5: 2198c44eb26d6d2f8d87b2e8d6b2f487
 LicenseConcluded: NOASSERTION
 LicenseInfoInFile: NOASSERTION
-FileCopyrightText: NOASSERTION
+FileCopyrightText: <text> Authors listed in the AUTHORS file:
+
+------------------------------------------------
+Behdad Esfahbod <behdad@gnu.org>
+Dov Grobgeld <dov.grobgeld@gmail.com>
+Roozbeh Pournader <roozbeh@gnu.org>
+Khaled Hosny <khaledhosny@eglug.org> </text>
 
 ##File
 
@@ -3752,10 +3771,7 @@ ExtractedText: <text> LGPL is referenced without a version number. Please look u
   
 LicenseID: LicenseRef-FSFUL
 LicenseName: FSF Unlimited License
-ExtractedText: <text> Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
-
-This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.
- </text>
+ExtractedText: <text> This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. </text>
 
 
   
@@ -3763,18 +3779,13 @@ LicenseID: LicenseRef-X11
 LicenseName: X11 License
 ExtractedText: <text> X11 License
 
-Copyright (C) 1996 X Consortium
-
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Except as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the X Consortium.
-
-X Window System is a trademark of X Consortium, Inc.
- </text>
+Except as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the X Consortium. </text>
 
 
   
@@ -3849,10 +3860,7 @@ F. Miscellaneous.
   
 LicenseID: LicenseRef-FSFULLR
 LicenseName: FSF Unlimited License (with License Retention)
-ExtractedText: <text> Copyright 1996-2006 Free Software Foundation, Inc.
-
-This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
- </text>
+ExtractedText: <text> This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
 
 
   

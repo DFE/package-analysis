@@ -3012,70 +3012,81 @@ Yoyodyne, Inc., hereby disclaims all copyright interest in the program
 
 Copyright notices
 
-© 2021 Unicode®, Inc.
-© 2020 Unicode®, Inc.
-Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com>
-Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
-Copyright 1992-2018 Free Software Foundation, Inc.
-Copyright (c) 2008 Paolo Bonzini <bonzini@gnu.org>
-Copyright (C) 2017 Dov Grobgeld
-Copyright (C) 2015, 2017 Dov Grobgeld
-Copyright (C) 2014 Free Software Foundation, Inc.
+Authors listed in the AUTHORS file:
+
+-------------------------------------
+Behdad Esfahbod <behdad@gnu.org>
+Dov Grobgeld <dov.grobgeld@gmail.com>
+Roozbeh Pournader <roozbeh@gnu.org>
+Khaled Hosny <khaledhosny@eglug.org>
+-------------------------------------
+
+Copyright (C) 1996-2020 Free Software Foundation, Inc. Originally written by
+Francois Pinard <pinard@iro.umontreal.ca>, 1996.
+Copyright (C) 1994 X Consortium
+Copyright (C) 1994-1996, 1999-2002, 2004-2016 Free Software Foundation, Inc.
+Copyright (C) 1999-2020 Free Software Foundation, Inc.
+Originally written by Alexandre Oliva <oliva@dcc.unicamp.br>.
+Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
 Copyright (C) 2012 Free Software Foundation, Inc.
-Copyright (C) 2011-2020 Free Software Foundation, Inc.
-Copyright (C) 2011 Free Software Foundation, Inc.
+Copyright (C) 2014 Free Software Foundation, Inc.
+Copyright 1992-2018 Free Software Foundation, Inc.
+Copyright (C) 1999-2020 Free Software Foundation, Inc. Written by Tom Tromey
+<tromey@cygnus.com>.
 Copyright (C) 2010-2020 Free Software Foundation, Inc. Written by Peter Rosin
 <peda@lysator.liu.se>.
-Copyright (C) 2010-2015 Free Software Foundation, Inc.
+Copyright (C) 2011-2020 Free Software Foundation, Inc.
+Copyright (C) 1996-2020 Free Software Foundation, Inc.
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com>
+Copyright (C) 2002-2020 Free Software Foundation, Inc.
+Copyright (C) 2001-2020 Free Software Foundation, Inc.
+Copyright (C) 1997-2020 Free Software Foundation, Inc.
+Copyright (C) 2003-2020 Free Software Foundation, Inc.
 Copyright (C) 2009-2020 Free Software Foundation, Inc.
-Copyright (C) 2009 Behdad Esfahbod
 Copyright (C) 2006-2020 Free Software Foundation, Inc.
-Copyright (C) 2005 Behdad Esfahbod
 Copyright (C) 2004-2020 Free Software Foundation, Inc.
-Copyright (C) 2004-2015 Free Software Foundation, Inc.
-Copyright (C) 2004-2005, 2007-2009, 2011-2015 Free Software Foundation, Inc.
-Written by Gary V. Vaughan, 2004
+© 2021 Unicode®, Inc.
+© 2020 Unicode®, Inc.
+Copyright (C) 1996-2001, 2003-2015 Free Software Foundation, Inc. Written by
+Gordon Matzigkeit, 1996
+Copyright (C) 2011 Free Software Foundation, Inc.
+Copyright (C) 1994-2020 Free Software Foundation, Inc.
+Copyright (C) 1989-1994,1996-1999,2001,2003,2004 Free Software Foundation, Inc.
+Copyright (C) 1987,88,89,90,91,92,93,94,95,96,98,99,2000,2001,2002,2003,2004
+Free Software Foundation, Inc.
+Copyright (C) 1987,88,89,90,91,92,93,94,96,97,98,2004 Free Software Foundation,
+Inc.
+Copyright (C) 2005 Behdad Esfahbod
+Copyright (C) 2004 Sharif FarsiWeb, Inc
+Copyright (C) 2004, 2005 Behdad Esfahbod
+Copyright (C) 2004 Sharif FarsiWeb, Inc.
+Copyright (C) 2001,2002 Behdad Esfahbod
+Copyright (C) 1999,2000 Dov Grobgeld
+Copyright (C) 2001, 2002, 2004, 2005 Behdad Esfahbod
+Copyright (C) 1999, 2000, 2017, 2018, 2019 Dov Grobgeld
+Copyright (C) 2001 Behdad Esfahbod.
+Copyright (C) 2004 Behdad Esfahbod
+Copyright (C) 2001,2002,2004 Behdad Esfahbod
+Copyright (C) 1999,2000,2017 Dov Grobgeld
+Copyright (C) 2017 Dov Grobgeld
+Copyright (C) 1999,2000 Dov Grobgeld, and
+Copyright (C) 2001,2002 Behdad Esfahbod.
+Copyright (C) 2009 Behdad Esfahbod
+Copyright (C) 2015, 2017 Dov Grobgeld
+Copyright (C) 1991, 1999 Free Software Foundation, Inc.
+Copyright (C) 2001, 2002, 2004 Behdad Esfahbod
+Copyright (C) 1999, 2000, 2017 Dov Grobgeld
+Copyright (c) 2008 Paolo Bonzini <bonzini@gnu.org>
+Copyright (C) 2004, 2011-2015 Free Software Foundation, Inc. Written by Scott
+James Remnant, 2004
 Copyright (C) 2004-2005, 2007-2008, 2011-2015 Free Software Foundation, Inc.
+Written by Gary V. Vaughan, 2004
+Copyright (C) 2004-2005, 2007-2009, 2011-2015 Free Software Foundation, Inc.
 Written by Gary V. Vaughan, 2004
 Copyright (C) 2004-2005, 2007, 2009, 2011-2015 Free Software Foundation, Inc.
 Written by Scott James Remnant, 2004.
-Copyright (C) 2004, 2011-2015 Free Software Foundation, Inc. Written by Scott
-James Remnant, 2004
-Copyright (C) 2004, 2005 Behdad Esfahbod
-Copyright (C) 2004 Sharif FarsiWeb, Inc.
-Copyright (C) 2004 Sharif FarsiWeb, Inc
-Copyright (C) 2004 Behdad Esfahbod
-Copyright (C) 2003-2020 Free Software Foundation, Inc.
-Copyright (C) 2002-2020 Free Software Foundation, Inc.
-Copyright (C) 2001-2020 Free Software Foundation, Inc.
-Copyright (C) 2001,2002,2004 Behdad Esfahbod
-Copyright (C) 2001,2002 Behdad Esfahbod.
-Copyright (C) 2001,2002 Behdad Esfahbod
-Copyright (C) 2001, 2002, 2004, 2005 Behdad Esfahbod
-Copyright (C) 2001, 2002, 2004 Behdad Esfahbod
-Copyright (C) 2001 Behdad Esfahbod.
-Copyright (C) 1999-2020 Free Software Foundation, Inc. Written by Tom Tromey
-<tromey@cygnus.com>.
-Copyright (C) 1999-2020 Free Software Foundation, Inc.
-Copyright (C) 1999,2000,2017 Dov Grobgeld
-Copyright (C) 1999,2000 Dov Grobgeld, and
-Copyright (C) 1999,2000 Dov Grobgeld
-Copyright (C) 1999, 2000, 2017, 2018, 2019 Dov Grobgeld
-Copyright (C) 1999, 2000, 2017 Dov Grobgeld
-Copyright (C) 1997-2020 Free Software Foundation, Inc.
-Copyright (C) 1996-2020 Free Software Foundation, Inc. Originally written by
-Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996.
-Copyright (C) 1996-2020 Free Software Foundation, Inc.
 Copyright (C) 1996-2015 Free Software Foundation, Inc.
-Copyright (C) 1996-2001, 2003-2015 Free Software Foundation, Inc. Written by
-Gordon Matzigkeit, 1996
-Copyright (C) 1994-2020 Free Software Foundation, Inc.
-Copyright (C) 1994-1996, 1999-2002, 2004-2016 Free Software Foundation, Inc.
-Copyright (C) 1994 X Consortium
-Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
-Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-Copyright (C) 1989-1994,1996-1999,2001,2003,2004 Free Software Foundation, Inc.
-Copyright (C) 1987,88,89,90,91,92,93,94,96,97,98,2004 Free Software Foundation,
-Inc.
-Copyright (C) 1987,88,89,90,91,92,93,94,95,96,98,99,2000,2001,2002,2003,2004
-Free Software Foundation, Inc.
+Copyright (C) 2004-2015 Free Software Foundation, Inc.
+Copyright (C) 2010-2015 Free Software Foundation, Inc.
+
