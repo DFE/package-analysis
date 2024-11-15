@@ -171696,7 +171696,7 @@
     "copyrightText" : "Copyright (C) 1995, 1996, 1998, 2000, 2001 Free Software Foundation, Inc.\nCopyright 2008 Freescale Semiconductor, Inc. Written By Michael Meissner",
     "fileName" : "barebox-2023.10.0.tar.gz/barebox-2023.10.0.tar/barebox-2023.10.0/arch/powerpc/lib/crtsavres.S",
     "licenseComments" : "NOASSERTION AND NOASSERTION",
-    "licenseConcluded" : "(LicenseRef-GPL-2.0-or-later-WITH-GCC-exception-2.0-db284ce7674337407a99a1aae9dabc8b AND LicenseRef-GPL-2.0-or-later)",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later-WITH-GCC-exception-2.0-db284ce7674337407a99a1aae9dabc8b",
     "licenseInfoInFiles" : [ "LicenseRef-GCC-exception-2.0", "LicenseRef-GPL-2.0-or-later", "LicenseRef-linking-exception", "LicenseRef-LicenseRef-scancode-linking-exception-2.0-plus", "LicenseRef-gnu-javamail-exception" ]
   }, {
     "SPDXID" : "SPDXRef-item3289194",
@@ -278939,7 +278939,7 @@
     "copyrightText" : "Copyright (c) 1989, 1991, 1993, 1994 The Regents of the University of California. All rights reserved.\nCopyright (c) 1997-2005 Herbert Xu <herbert@gondor.apana.org.au>\nCopyright (c) 2001 Aaron Lehmann <aaronl@vitelus.com>\n(c) 2004 to support dynamic variables.\nVladimir Oleynik <dzo@simtreas.ru> (c) 2001-2005\nCopyright (c) 2001 Aaron Lehmann <aaronl@vitelus.com>\n(C) 2003 Vladimir Oleynik <dzo@simtreas.ru>\nCopyright (c) 1989, 1991, 1993, 1994 The Regents of the University of California. All rights reserved.",
     "fileName" : "barebox-2023.10.0.tar.gz/barebox-2023.10.0.tar/barebox-2023.10.0/lib/math.c",
     "licenseComments" : "NOASSERTION AND NOASSERTION AND NOASSERTION AND NOASSERTION",
-    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-GPL-2.0-or-later AND LicenseRef-BSD-3-Clause-5982ba0d4fafb162c64f096b24b771a7 AND LicenseRef-MIT-d6b57077083bb5ee3a1169ecf602155e)",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-or-later AND LicenseRef-BSD-3-Clause-5982ba0d4fafb162c64f096b24b771a7 AND LicenseRef-MIT-d6b57077083bb5ee3a1169ecf602155e)",
     "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-GPL-2.0-or-later", "LicenseRef-MIT" ]
   }, {
     "SPDXID" : "SPDXRef-item3292755",

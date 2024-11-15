@@ -53663,7 +53663,7 @@ SPDXID: SPDXRef-item3289193
 FileChecksum: SHA1: ab5cada6dba87932f829ac2158af5524c68efa69
 FileChecksum: SHA256: 5b6aa3c24c6ecbc0ef1ee334a85d02d8ccfd79ea40c001ef656de5b424573a6f
 FileChecksum: MD5: 1589cae3d679682042ad4151d3484794
-LicenseConcluded: LicenseRef-GPL-2.0-or-later AND LicenseRef-GPL-2.0-or-later-WITH-GCC-exception-2.0-db284ce7674337407a99a1aae9dabc8b
+LicenseConcluded:  LicenseRef-GPL-2.0-or-later-WITH-GCC-exception-2.0-db284ce7674337407a99a1aae9dabc8b
 LicenseComments: <text>NOASSERTION AND NOASSERTION </text>
 LicenseInfoInFile: LicenseRef-linking-exception
 LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
@@ -62444,7 +62444,7 @@ SPDXID: SPDXRef-item3292756
 FileChecksum: SHA1: a35c148577f89d5b1d1d19517a0031595d8a350c
 FileChecksum: SHA256: 90bc9542b86036cdbab197edd843e6b4f57dcd8a819a7ae360b72c54ad1d21a7
 FileChecksum: MD5: 3bad0a17c53589b17a058aa6aae390c2
-LicenseConcluded: LicenseRef-GPL-2.0-only AND LicenseRef-GPL-2.0-or-later AND LicenseRef-BSD-3-Clause-5982ba0d4fafb162c64f096b24b771a7 AND LicenseRef-MIT-d6b57077083bb5ee3a1169ecf602155e
+LicenseConcluded: LicenseRef-GPL-2.0-or-later AND LicenseRef-BSD-3-Clause-5982ba0d4fafb162c64f096b24b771a7 AND LicenseRef-MIT-d6b57077083bb5ee3a1169ecf602155e
 LicenseComments: <text>NOASSERTION AND NOASSERTION AND NOASSERTION AND NOASSERTION </text>
 LicenseInfoInFile: LicenseRef-MIT
 LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
